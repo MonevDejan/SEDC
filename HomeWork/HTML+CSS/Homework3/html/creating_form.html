@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form</title>
+</head>
+
+<body>
+    <form action="" method="POST" id="First_form">
+        <fieldset>
+            <fieldset>
+        <!-- This types are for input tag -->
+        <label for="name"> First name:</label> <br/>
+        <input type="text" name="First_name" id="name"/>
+        <br/>
+        <br/>
+        <input type="radio" name="gender" value="Male" id="Male"/> 
+        <label for="Male"> Male </label> <br/>
+        <input type="radio" name="gender" value="Female" id="Female" checked/> 
+        <label for="Female"> Female </label> <br/>
+        <br/>
+        <br/>
+        <label for="password"> Password:</label> <br/>
+        <input type="password" name="password" id="password" required />
+        <br/>
+        <br/>
+        <input type="submit" value="Send" />
+        <br/>
+        <br/>
+        <p> Please select you favorit radio </p>
+        <label for="Itunes"> Itunes:</label>
+        <input type="checkbox" name="checkbox1" value="itunes" id="Itunes" />
+        <label for="Antena5"> Antena5:</label>
+        <input type="checkbox" name="checkbox1" value="Antena5" id="Antena5" />
+        <label for="kanal77"> kanal77: </label>
+        <input type="checkbox" name="checkbox1" value="kanal77" id="kanal77" checked />
+        <br/>
+        <br/>
+        <input type="file" name="file" />
+        <br/>
+        <br/>
+        <input type="hidden" name="bookmarks" value="Trying to hide things"/>
+        <br/>
+        <br/>
+        <input type="date" name="date" />
+        <br/>
+        <br/>
+        <input type="email" name="email"  /> <!-- Can support multiply email adresses separated by coma-->
+        <br/>
+        <br/>
+        <input type="url" name="url" placeholder="//https:example.com"/>
+        <br/>
+        <br/>
+        <input type="search" value="Search"/>
+
+
+
+
+        <br/>
+        <br/>
+        </fieldset>
+        <!-- Text area tag -->
+        <textarea name="comment" id="Comment" cols="20" rows="5" >Enter some comment   </textarea>
+        <br/>
+        <br/>
+        <!-- Select tag-->
+        <fieldset>
+        <p>Please select your chess piece</p>
+        <select name="Chees_piece">
+            <option disabled selected >Choose a piece</option>
+            <option value="rook" >Rook</option>
+            <option value="Pawn" >Pawn</option>
+            <option value="Bishop" >Bishop</option>
+        </select>
+        <br/>
+        <br/>
+        <select name="Chees_piece" multiple>  <!-- The multiply values goes to server in array-->
+            <option disabled selected >Choose a piece</option>
+            <option value="rook" >Rook</option>
+            <option value="Pawn" >Pawn</option>
+            <option value="Bishop" >Bishop</option>
+        </select>
+        <!-- Buttons -->
+        <button> <img src="../images/blank.jpeg" /> Button  </button>
+        </fieldset>
+        
+       
+
+
+    </fieldset>
+    </form>
+
+    
+</body>
+</html>

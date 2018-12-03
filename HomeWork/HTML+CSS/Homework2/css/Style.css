@@ -1,0 +1,16 @@
+body 
+{
+    background-image: url(images/useful-link-logo1.jpeg); 
+    background-repeat: repeat-y;
+    background-position: right top;
+    background-attachment: fixed;
+    margin-right: 500px;
+}
+h1, h2, h3
+{
+    text-align: left;
+    color:rgb(0, 4, 255);
+    font-size: 24px;
+}
+p
+{font-size: 16px;}

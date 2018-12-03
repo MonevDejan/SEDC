@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Working_with_hyperlinks</title>
+        <link href="/css/Style.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 id="top">Connected links</h1>
+        <p > <b>Homework 2:</b> <br>
+        Create 3 different HTML documents (home, about, contact) and link them together using hyperlinks!<br>
+        Put different content in the body of every HTML document including 4 images that will link to external websites.<br>
+        Create a "back to the top of the page" link on the bottom that will link to the top of the home page!<br>
+        </p>
+        <img src="images/clippyHCAB.jpeg" alt="Clippy buttons" usemap="#clippyHCAB"/>
+
+        <map name="clippyHCAB">
+            <area  target="_self" alt="Home button"  href="home_page.html" coords="33,17,189,44"  shape="rect">
+            <area  target="_self" alt="About button"  href="about_us.html" coords="31,53,189,75" shape="rect">
+            <area  target="_self" alt="Contact button"  href="contact_page.html" coords="34,84,191,104"  shape="rect">
+            <area target="" alt="Bottom of page"  href="#bottom" coords="33,113,190,136" shape="rect">
+        </map> 
+
+        <h2>Hyperlink</h2>
+        <p>
+        In computing, a <strong>hyperlink</strong>, or simply a link, is a reference to <br>
+        data that the reader can directly follow either by clicking, tapping, or hovering.<br>
+        A hyperlink points to a whole document or to a specific element within a document.<br>
+        Hypertext is text with hyperlinks. The text that is linked from is called anchor text. <br>
+        A software system that is used for viewing and creating hypertext is a hypertext system, <br>
+        and to create a hyperlink is to hyperlink (or simply to link).<br>
+         A user following hyperlinks is said to navigate or browse the hypertext.<br>
+        </p>
+
+        <p>
+        The document containing a <strong>hyperlink</strong> is known as its source document. <br>
+        For example, in an online reference work such as Wikipedia, or Google, <br>
+        many words and terms in the text are hyperlinked to definitions of those terms. <br>
+        Hyperlinks are often used to implement reference mechanisms such as <br>
+        tables of contents, footnotes, bibliographies, indexes, letters and glossaries<br>
+        </p>
+
+        <p>
+        The effect of following a <strong>hyperlink</strong> may vary with the hypertext system and <br>
+        may sometimes depend on the link itself; for instance, on the World Wide Web most<br>
+        hyperlinks cause the target document to replace the document being displayed,<br>
+        but some are marked to cause the target document to open in a new window. <br>
+        Another possibility is transclusion, for which the link target <br>
+        is a document fragment that replaces the link anchor within the source document.<br>
+        Not only persons browsing the document follow hyperlinks. <br>
+        These hyperlinks may also be followed automatically by programs. <br>
+        A program that traverses the hypertext, following each hyperlink and gathering all the<br>
+        retrieved documents is known as a Web spider or crawler.<br>
+        </p>
+
+        <h3>Inline links</h3>
+        <p>
+        An inline link displays remote content without the need for embedding the content. <br>
+        The remote content may be accessed with or without the user selecting the link.<br>
+        An inline link may display a modified version of the content; for instance, instead of an image, <br>
+        a thumbnail, low resolution preview, cropped section, or magnified section may be shown. <br>
+        The full content is then usually available on demand, as is the case with print publishing software – e.g.,<br>
+        with an external link. This allows for smaller file sizes and quicker response <br>
+        to changes when the full linked content is not needed, as is the case when rearranging a page layout.<br>
+        </p>
+        <p> 
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. <br>
+        Similique pariatur incidunt ea officiis tempora unde facilis,<br>
+         nemo ab quia non sint atque possimus assumenda, aspernatur omnis quam odit. Nostrum, possimus!<br>
+        </p>
+        <p> 
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. <br>
+        Similique pariatur incidunt ea officiis tempora unde facilis,<br>
+            nemo ab quia non sint atque possimus assumenda, aspernatur omnis quam odit. Nostrum, possimus!<br>
+        </p>
+        <a href="#top">
+            <img id="bottom" src="images/clippyTop.jpeg" alt="Clippy" />
+        </a>
+    </body>
+</html>

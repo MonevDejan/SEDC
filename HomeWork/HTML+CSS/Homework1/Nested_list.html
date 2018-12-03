@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Multi-level nested HTML lists</title>
+</head>
+<body>
+    <style>
+    li a 
+    {
+    display:block;
+    color: rgb(236, 16, 16);
+    text-decoration: none;
+    background-color: yellow;
+    }   
+    
+    </style>
+    <p>
+        <ol start="10">
+        <li> List item    </li>
+        <li> List item    </li>
+        <li> List item    </li>
+        <li> List item   
+                <ul style="list-style-type: square;">
+                <li> List item    </li>
+                <li> List item    </li>
+                <li> List item    </li>
+                <li> List item   
+                        <ul style="list-style-type: lower-roman">
+                        <li> List item    </li>
+                        <li> List item    </li>
+                        <li> List item    </li>
+                        <li> List item  
+                                <ul style="list-style-type: lower-alpha">
+                                <li> List item    </li>
+                                <li> List item    </li>
+                                <li> List item    </li>
+                                <li>  List item 
+                                        <dl >
+                                        <dt> List item    </dt>
+                                        <dt> List item    </dt>
+                                        <dt> List item    </dt>
+                                        <dt> List item    </dt>
+                                        <dd> <a>This defines the items in the last sublist</a></dd>
+                                        </dl>
+                                </li>
+                                </ul>
+                        </li>
+                        </ul>
+                </li>
+                </ul>
+        </li>
+        </ol>
+    </p>
+</body>
+</html>
