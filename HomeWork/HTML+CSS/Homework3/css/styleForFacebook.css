@@ -1,0 +1,21 @@
+header
+{
+    background-color: rgb(29, 62, 170);
+    color: white;
+}
+form
+{
+    text-align: right;
+}
+
+#facebook
+{
+    text-align: center;
+    font-size: 36px;
+}
+
+#signup
+{ 
+    background-color: green;
+    color: white;
+}

@@ -1,23 +1,23 @@
- 
-
 let fields = ["FirstName","Lastname", "Email","Password","Submit" ];
- 
+
+let script = document.querySelector("script");
 let form = document.createElement("form");
+form.setAttribute("action", " ");
+form.setAttribute("method", "post");
 let fieldset = document.createElement("fieldset");
 form.appendChild(fieldset);
-document.body.appendChild(form);
+document.body.insertBefore(form, script);
 
 // Note that there will be confilct if some of the id are ===
 function createInputAndLableForText(Field_name)
 {
-    let fieldsetNode = document.querySelector("fieldset");
     let element =Field_name;
 
     let label = document.createElement("label");
     label.setAttribute("for", `${element}`);
     let textNode = document.createTextNode(`${element}  `);
     label.appendChild(textNode);
-    fieldsetNode.appendChild(label);
+    fieldset.appendChild (label);
 
     let inputField = document.createElement("input");
     inputField.setAttribute("type", "text");
@@ -29,14 +29,13 @@ function createInputAndLableForText(Field_name)
 
 function createInputAndLableForEmail(Field_name)
 {
-    let fieldsetNode = document.querySelector("fieldset");
     let element =Field_name;
 
     let label = document.createElement("label");
     label.setAttribute("for", `${element}`);
     let textNode = document.createTextNode(`${element}  `);
     label.appendChild(textNode);
-    fieldsetNode.appendChild(label);
+    fieldset.appendChild(label);
 
     let inputField = document.createElement("input");
     inputField.setAttribute("type", "Email");
@@ -48,14 +47,13 @@ function createInputAndLableForEmail(Field_name)
 
 function createInputAndLableForPassword(Field_name)
 {
-    let fieldsetNode = document.querySelector("fieldset");
     let element =Field_name;
 
     let label = document.createElement("label");
     label.setAttribute("for", `${element}`);
     let textNode = document.createTextNode(`${element}  `);
     label.appendChild(textNode);
-    fieldsetNode.appendChild(label);
+    fieldset.appendChild(label);
 
     let inputField = document.createElement("input");
     inputField.setAttribute("type", "password");
@@ -65,26 +63,57 @@ function createInputAndLableForPassword(Field_name)
     fieldset.innerHTML += "</br></br>";
 }
 
-function createButton()
+function createButtonSubmit()
 {
-    let fieldsetNode = document.querySelector("fieldset");
     let inputField = document.createElement("input");
     inputField.setAttribute("type", "button");
     inputField.setAttribute("value", "Submit");
     fieldset.appendChild(inputField);
     fieldset.innerHTML += "</br></br>";
 }
+
+function createButton()
+{
+    let button = document.createElement("button");
+    let text = document.createTextNode("Click here to show the values");
+    button.appendChild(text);
+    button.addEventListener("click", createParagraph);
+    document.body.appendChild(button);
+}
+
+function createParagraph ()
+{
+    let p = document.createElement("p");
+    p.innerHTML = writeValues();
+    document.body.appendChild(p);
+}
+
+
+function writeValues ()
+{
+    let string = "";
+    for (let i = 0; i < fields.length -1; i++) 
+    {
+        let element = document.getElementById(`${fields[i]}`).value;
+        string += `${fields[i]}: ${element}  </br>`;
+    }
+    return string;
+}
+
+
  
-function createAllFields ()
+function createAllElements()
 {
     createInputAndLableForText(fields[0]);
     createInputAndLableForText(fields[1]);
     createInputAndLableForEmail(fields[2]);
     createInputAndLableForPassword(fields[3]);
+    createButtonSubmit();
     createButton();
 }
+createAllElements();
 
-createAllFields();
+
 
 
 
