@@ -1,0 +1,36 @@
+/* *
+{
+    border-style: solid;
+    border-width: thick;
+} */
+nav
+{
+    position: relative;
+}
+nav > button
+{
+    /* background-color: red; */
+    float: left;
+    width: 20%;
+}
+#one_row
+{
+    background-color: red;
+    position: relative;
+}
+#one_row > section, aside
+{
+    float: left;
+    width: 49%;
+    height: 300px;
+    overflow: auto;
+}
+aside
+{
+    float: right; 
+}
+aside p
+{
+    text-align: right;
+    color: red;
+}

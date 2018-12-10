@@ -1,4 +1,4 @@
-let fields = ["FirstName","Lastname", "Email","Password" ];
+let fields = ["FirstName","Lastname", "Email","Password"];
 
 let script = document.querySelector("script");
 let form = document.createElement("form");
@@ -63,79 +63,42 @@ function createInputAndLableForPassword(Field_name)
     fieldset.innerHTML += "</br></br>";
 }
 
-// function createButtonSubmit()
-// {
-//     let inputField = document.createElement("input");
-//     inputField.setAttribute("type", "submit");
-//     inputField.setAttribute("value", "Submit");
-//     fieldset.appendChild(inputField);
-//     fieldset.innerHTML += "</br></br>";
-// }
-
 function createButtonWithEventListener()
 {
     let button = document.createElement("button");
-    let text = document.createTextNode("Click here to show the values");
+    let text = document.createTextNode("Click here to print values in table");
     button.appendChild(text);
-    button.addEventListener("click", changeInnerTextInParagraph);
+    button.addEventListener("click", valuesInTable);
     document.body.appendChild(button);
 }
-
-function createParagraph ()
+function createTable()
 {
-    let p = document.createElement("p");
-    document.body.insertBefore(p, script);
+    let table = document.createElement("table");
+    let tablebody = document.createElement("tbody");
+    table.appendChild(tablebody);
+    // table.setAttribute("border-collapse", "collapse");
+    document.body.insertBefore(table, script);
 }
-
-function writeValues ()
+function valuesInTable()
 {
-    let string = "";
-    for (let i = 0; i < fields.length; i++) 
+    let tablebody = document.querySelector("tbody");
+    tablebody.innerText = "";
+    for (let index = 0; index < fields.length; index++)
     {
-        let element = document.getElementById(`${fields[i]}`).value;
-        string += `${fields[i]}: ${element}  </br>`;
+        let element = document.getElementById(`${fields[index]}`).value;
+        let trow = document.createElement("tr");
+        let tdata = `<td  style="border: 1px solid black">${fields[index]}</td> <td style="border: 1px solid black">${element} </td> `
+        trow.innerHTML = tdata;
+        tablebody.appendChild(trow);
     }
-    return string;
 }
-
-function changeInnerTextInParagraph()
-{
-    let selector = document.getElementsByTagName("p")[1];
-    selector.innerHTML = writeValues();
-}
- 
 function createAllElements()
 {
     createInputAndLableForText(fields[0]);
     createInputAndLableForText(fields[1]);
     createInputAndLableForEmail(fields[2]);
     createInputAndLableForPassword(fields[3]);
-    // createButtonSubmit();
     createButtonWithEventListener();
-    createParagraph();
+    createTable();
 }
 createAllElements();
-
-
-
-
-
-
- /*
-<form>
-    <fieldset>
-        <label for="FirstName">Firstname:   </label>
-        <input type="text" name="Firstname" id="FirstName"  />
-         </br></br>
-        <label for="Lastname">Lastname: </label>
-        <input type="text" name="LastName" id="Lastname" />
-         </br></br>
-        <label for="Email">Email: &nbsp &nbsp &nbsp  </label>
-        <input type="email" name="Email" id="Email" />
-         </br></br>
-        <label for="Password">Password: </label>
-        <input type="password" name="Passwor" id="Password" />
-         </br></br>
-        <input type="button" value="Submit" /> </br></br>
-    </fieldset>
-</form> */
