@@ -7,20 +7,6 @@
     6. Showing the result
 */
 
-// we need all of this element 
-let oneTo19 = ["еден", "два", "три", "четири", "пет", "шест","седум", 
-"осум", "девет", "десет", "единаесет", "дванаесет", 
-"тринаесет", "четиринаесет","петнаесет", "шеснаесет",
-"седумнаесет", "осумнаесет", "деветнаесет",]
-
-let decade = ["дваесет", "триесет", "четириесет", "педесет", "шеесет", "седумдесет", "осумдесет", "деведесет"];
-let hundrets = ["сто", "двестотини" , "тристотини", "четиристотини", "петстотини", "шестотини", "седумстотини", "осумстотини", "деветстотини" ]
-
-// element with index[0] and index[1] are just empty string to match the counter in the code below
-let cardinal = ["", "","илјада","милион", "билион", "трилион", "квадрилион"];
-let suffixCardinal = ["", "", "илјади","милиони","билиони","трилиони","квадрилиони"]; 
-
-let number;  // global scope
 
 // Put the digits from number in array
 function DigitsInArry (number)  
@@ -40,34 +26,32 @@ function naming2digitnumber(a , b)
 {
     let string ="";
     let wholenumber = (a*10)+b;
-
     // if the number is smaler than 20, we have the values in array oneTo19
     if(wholenumber <20)            
     { 
-        if(number < 20)    //number is number that we entered
-        {
-            string += oneTo19[wholenumber-1];
-            return string;
-        }
+        if(number < 20)    //number that we entered
+        {string += oneTo19[wholenumber-1];  return string;}
         else
         {
-            string += "и " + oneTo19[wholenumber-1];  // adding "и " 
-            return string;
+            if(numberOfcycle === 1)
+            { string +=  " " + oneTo19[wholenumber-1]; return string; }
+            else
+            { string += "и " + oneTo19[wholenumber-1];  return string; }
         }
     }
     else
     {
         if(b === 0 )              
         {
-            if(number < 100)    //number is number that we entered
+            if(number < 100)    //number that we entered
             {
             string += decade[a-2];
             return string;
             }
             else
-            {
-                string +=" и " + decade[a-2];
-                return string;
+            { 
+                if(numberOfcycle === 1) {  string += " " + decade[a-2];  return string; }
+                else {  string +=" и " + decade[a-2];  return string;}
             }
         }
         else
@@ -76,6 +60,7 @@ function naming2digitnumber(a , b)
             return string;
         }
     } 
+    
 }
 
 //writnig number to words for 2 digit number with slight modification for iljada
@@ -91,22 +76,22 @@ function naming2digitnumberForiljadi(a , b)
         {
             case 1:  return string+="една";
             case 2:  return string+="две";
-            default: { string = oneTo19[wholenumber-1]; return string;}
+            default: { string = " "+ oneTo19[wholenumber-1]; return string;}
         }
     }
     else
     {
         if(b === 0 )
         {
-            if(number < 100)    //number is number that we entered
+            if(number < 100)    //number that we entered
             {
             string += decade[a-2];
             return string;
             }
             else
             {
-                string +="и " + decade[a-2]; //adding "и " 
-                return string;
+                if(numberOfcycle === 1) {  string += " " + decade[a-2];  return string; }
+                else {  string +=" и " + decade[a-2];  return string;}
             }
         }
         else
@@ -121,6 +106,7 @@ function naming2digitnumberForiljadi(a , b)
 function naming3digitnumber(x , y, z) 
 {
     let string ="";
+    numberOfcycle +=1;
     // if there is no number, just return the empty string
     if(x+y+z === 0)        
     { return string; }
@@ -136,8 +122,8 @@ function naming3digitnumber(x , y, z)
             }
             else
             {
-                string += " и " + hundrets[x-1]; //adding "и " 
-                return string;
+                if(numberOfcycle === 1) { string += " " + hundrets[x-1]; return string; }
+                else { string += " и " + hundrets[x-1]; return string; }
             }
         }
         else
@@ -161,6 +147,7 @@ function naming3digitnumber(x , y, z)
 function naming3digitnumberForIljadi(x , y, z) 
 {
     let string ="";
+    numberOfcycle +=1;
 
     if(x+y+z === 0)
     { return string; }
@@ -175,8 +162,8 @@ function naming3digitnumberForIljadi(x , y, z)
             }
             else
             {
-                string += " и " + hundrets[x-1];
-                return string;
+                if(numberOfcycle === 1) { string += " " + hundrets[x-1]; return string; }
+                else { string += " и " + hundrets[x-1]; return string; }
             }
         }
         else
@@ -190,7 +177,7 @@ function naming3digitnumberForIljadi(x , y, z)
             {
                 if((y < 2) || (z === 0))
                 {
-                    string += hundrets[x-1] + " и " + naming2digitnumberForiljadi(y,z);
+                    string += hundrets[x-1] + naming2digitnumberForiljadi(y,z);
                     return string;
                 }
                 else
@@ -207,7 +194,7 @@ function NumberToWords()
 {
     let r = prompt("insert your number");
     number = parseInt(r);
-    
+    numberOfcycle=0;
     // To check if the input is number or string   
     if(isNaN(number))        
     {   document.getElementById("number").innerHTML = "Incorect input!  Check your number";}
@@ -275,20 +262,27 @@ function NumberToWords()
         }
         // this check is if the number is zero (0)
         if(numberToWords !== "")
-        {
-            // we need to erase the " и " in fornt of the code :D
-            let checkForI = numberToWords.slice(0,3);
-            let checkForII = numberToWords.slice(0,2);
-            if(checkForI === " и ")
-            { document.getElementById("number").innerHTML = `You imput ${number} and the word representation is <br/> ${numberToWords.slice(3)}`;} 
-            if( checkForII === "и " )
-            { document.getElementById("number").innerHTML = `You imput ${number} and the word representation is <br/> ${numberToWords.slice(2)}`;}
-            else
-            {document.getElementById("number").innerHTML = `You imput ${number} and the word representation is <br/> ${numberToWords}`; }
-        } 
+        { document.getElementById("number").innerHTML = `You imput ${number} and the word representation is <br/> ${numberToWords}`;} 
         else
-        {document.getElementById("number").innerHTML = `You imput ${number} and the word representation is <br/> нула`;}
+        { document.getElementById("number").innerHTML = `You imput ${number} and the word representation is <br/> нула`; } 
     }
 } 
+
+// we need all of this element 
+let oneTo19 = ["еден", "два", "три", "четири", "пет", "шест","седум", 
+"осум", "девет", "десет", "единаесет", "дванаесет", 
+"тринаесет", "четиринаесет","петнаесет", "шеснаесет",
+"седумнаесет", "осумнаесет", "деветнаесет",]
+
+let decade = ["дваесет", "триесет", "четириесет", "педесет", "шеесет", "седумдесет", "осумдесет", "деведесет"];
+let hundrets = ["сто", "двестотини" , "тристотини", "четиристотини", "петстотини", "шестотини", "седумстотини", "осумстотини", "деветстотини" ]
+
+// element with index[0] and index[1] are just empty string to match the counter in the code below
+let cardinal = ["", "","илјада","милион", "билион", "трилион", "квадрилион"];
+let suffixCardinal = ["", "", "илјади","милиони","билиони","трилиони","квадрилиони"]; 
+
+let number;  // global scope
+let numberOfcycle =0;
+
 //9 007 199 254 740 991      9007199254740991
 //1 101 101 101 101 101      1101101101101101
