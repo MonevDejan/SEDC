@@ -198,13 +198,40 @@ function assignValuesInOnject (nameOfobject, someArray)
 
 }
 
+function exportValues () 
+{
+  let text = document.getElementById("inmport/export");
+  let valuesFromTable = JSON.stringify(mainObjectArray);
+  text.value = valuesFromTable;
+}
+
+function importValues () 
+{
+  let text = document.getElementById("inmport/export");
+  let externalDocument = text.value;
+  let helpArray1 = JSON.parse(externalDocument);
+  mainObjectArray = mainObjectArray.concat(helpArray1);
+  dysplayDecease();
+  text.value = "";
+}
+
 let mainObjectArray =[];
 let counterForSimptom = 1;
 let indexOfDecease = NaN;
 let checkForEmptyInput = null;
 
 // create buttons with event listener on click
-document.body.appendChild(createButtonWithOnclicEvent("Add simptom", addInputField));
-document.body.appendChild(createButtonWithOnclicEvent("Delete symptom", deleteSymptom));
-document.body.appendChild(createButtonWithOnclicEvent("Discard", discardValues));
-document.body.appendChild(createButtonWithOnclicEvent("Save", saveValues));
+let hr = document.getElementsByTagName("hr")[0];
+
+document.body.insertBefore(createButtonWithOnclicEvent("Add simptom", addInputField), hr);
+document.body.insertBefore(createButtonWithOnclicEvent("Delete symptom", deleteSymptom), hr);
+document.body.insertBefore(createButtonWithOnclicEvent("Discard", discardValues), hr);
+document.body.insertBefore(createButtonWithOnclicEvent("Save", saveValues), hr);
+
+let textArea = document.getElementsByTagName("textarea")[0];
+
+document.body.insertBefore(createButtonWithOnclicEvent("Export", exportValues), textArea );
+document.body.insertBefore(createButtonWithOnclicEvent("Import", importValues), textArea);
+
+let breakLine = document.createElement("br");
+document.body.insertBefore(breakLine, textArea);

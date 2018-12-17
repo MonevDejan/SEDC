@@ -8,3 +8,9 @@ input::placeholder
 {
     color: red;
 }
+
+#inmport\/export
+{
+    width: 400px;
+    height: 200px;
+}
