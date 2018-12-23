@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Number information</title>
+
+    <script
+        src="https://code.jquery.com/jquery-3.3.1.js"
+        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous">
+    </script>
+
+</head>
+<body>
+    <p>
+        Part 1<br/>
+        Write a function that will give stats about an integer number. <br/>
+        function getNumberStats(number){<br/>
+            // your code here<br/>
+        }<br/>
+        The function should return an object with the stats as properties. The stats required are:<br/>
+        
+        How many digits the number has (numDigits property)<br/>
+        Is the number odd or even (isEven property)<br/>
+        Is the number positive (isPositive property)<br/>
+        Part 2<br/>
+        Write user interface for the number checker.<br/>
+        It should include an entry field for the number as well as a button to trigger the calculation. <br/>
+        After the calculation, and appropriate response should be shown on the page.<br/>
+        
+        I.e. if the user enters the number 25, the response should be<br/>
+        
+        The number 25 is a 2 digit number, it's odd and it's a positive number.<br/>
+    </p>
+    <hr/>
+
+    <label for="number">Inser Number:</label>
+    <input type="text" name="number" id="input" />
+    <br/>   <br/>
+    <p id="number"> </p>
+    <hr/>
+
+    <button> Click to show result </button>
+
+    <script src="number.js"> </script>
+
+</body>
+</html>

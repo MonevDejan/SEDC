@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>User_informations</title>
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+    </script>
+    <link type="text/css" href="style.css" rel="stylesheet"/>
+</head>
+<body>
+
+    <p> 
+        Under the inputs in the HTML create a table element with 4 columns for <br/>
+        First Name, Last Name, Password and E-mail and one button. When the button is <br/>
+        click check if all inputs have values and if that is true create table with the <br/>
+        values of the input fields else show message that all fields are required. <br/>
+        You should have a new table row for every new user you make <br/>
+    </p>
+    <hr/>
+    <div id="container">
+        <br/>  <br/> 
+        <label for="first_name" >First name: &nbsp;&nbsp;&nbsp;</label>
+        <input type="text" name="text" id="first_name"/>
+        <br/>  <br/> 
+        <label for="second_name" >Second name:</label>
+        <input type="text" name="text" id="second_name"/>
+        <br/>  <br/> 
+        <label for="password" >Password: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+        <input type="password" name="password" id="password"/>
+        <br/>  <br/> 
+        <label for="email" >Email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </label>
+        <input type="email" name="email" id="email"/>
+        <br/>  <br/> 
+    </div>
+
+    <hr/>
+    <button> Save contact </button>
+    <p id="check"> </p>
+    <hr/>
+    <table>
+        <tbody>
+            <thead>
+                <tr>
+                    <th>First name</th>
+                    <th>Second name</th>
+                    <th>Password</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+
+        </tbody>
+
+    </table>
+
+    <script src="user.js"> </script>
+</body>
+</html>
