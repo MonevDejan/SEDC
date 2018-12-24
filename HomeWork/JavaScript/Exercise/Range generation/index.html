@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Range generation</title>
+    <script
+        src="https://code.jquery.com/jquery-3.3.1.js"
+        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous">
+    </script>
+
+</head>
+<body>
+    <p>
+        Given a starting and a finishing number, generate an array that will have <br/>
+        as elements all the numbers starting with the starting and ending with <br/>
+        the finishing number, e.g., generateRange(5, 10) should return<br/>
+        the array [5, 6, 7, 8, 9, 10].<br/> <br/>
+
+        bonus Make the function work if the starting number <br/>
+        is bigger than the finishing number, e.g. generateRange(10, 5) <br/>
+        should return the array [10, 9,8, 7, 6, 5].<br/>
+    </p>
+    
+    <label for="start">Insert start of array:</label>
+    <input type="text" name="start" id="start" />
+    <br/>   <br/>
+    <label for="finish">Insert end of array :</label>
+    <input type="text" name="finish" id="finish" />
+    <p id="number"> </p>
+    <hr/>
+
+    <button> Click to show result </button>
+
+    <script src="Range_generation.js"></script>
+</body>
+</html>

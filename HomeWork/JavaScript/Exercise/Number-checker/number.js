@@ -1,13 +1,20 @@
 function numberOfDigits (number)  
-{   
-    if(number < 0) {number *= -1;} 
-    let counter = 0;
-    while (number !== 0) 
+{   if( number === 0)
     {
-        number = Math.floor(number / 10)
         counter +=1;
+        return counter;
     }
-    return counter;
+    else
+    {
+        if(number < 0) {number *= -1;} 
+        let counter = 0;
+        while (number !== 0) 
+        {
+            number = Math.floor(number / 10)
+            counter +=1;
+        }
+        return counter;
+    }
 }
 
 function even_odd (number)
@@ -48,7 +55,7 @@ function handler ()
 {
     let inputValue = $("#input").val();
     let parseValue = parseInt(inputValue);
-    if(!parseValue) { $("#number").text("Please insert valid integer number"); }
+    if(!parseValue && (parseValue !== 0)) { $("#number").text("Please insert valid integer number"); }
     else
     {
         if(inputValue.length  === parseValue.toString().length )
