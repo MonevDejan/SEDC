@@ -1,0 +1,184 @@
+@keyframes loading 
+{
+    0%   { width: 0%; opacity: 1;  }
+    60%  { width: 100%; opacity: 1;}
+    100% { width: 100%; opacity: 0;}
+}
+
+@keyframes rotate
+{
+    0%   { transform: rotate(0deg);   }
+    50%  { transform: rotate(180deg); }
+    100% { transform: rotate(180deg); }
+}
+
+@keyframes translate
+{
+    0%   { transform: translate(0px, 0px);  }
+    25%  { transform: translate(60px, 0px); }
+    50%  { transform: translate(60px, 60px);}
+    75%  { transform: translate(0px, 60px); }
+    100% { transform: translate(0px, 0px);  }
+}
+
+
+.div1, .div2
+{
+    position: relative;
+    top: 47%;
+    left: 25%;
+    width: 150px;
+    height: 15px;
+    background-color: deepskyblue;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    text-align: center;
+}
+
+.div1::before
+{
+    content: "";
+
+    width: 0;
+    height: 5px;
+    background-color: black;
+
+    position: absolute;
+    top: -5px;
+    left: 0px;
+
+    -webkit-animation:  loading 5s ease-in-out .0s infinite;
+    -moz-animation:     loading 5s ease-in-out .0s infinite;
+    -ms-animation:      loading 5s ease-in-out .0s infinite;
+    animation:          loading 5s ease-in-out .0s infinite;
+
+}
+
+.div1::after
+{
+    content: "";
+
+    width: 0;
+    height: 5px;
+    background-color: black;
+
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+
+    -webkit-animation:  loading 5s ease-in-out .0s infinite;
+    -moz-animation:     loading 5s ease-in-out .0s infinite;
+    -ms-animation:      loading 5s ease-in-out .0s infinite;
+    animation:          loading 5s ease-in-out .0s infinite;
+}
+
+.div2::before, .div4::before
+{
+    content: "";
+
+    width: inherit;
+    height: inherit;
+    background-color: black;
+
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+    -webkit-animation:  loading 5s ease-in-out .0s infinite;
+    -moz-animation:     loading 5s ease-in-out .0s infinite;
+    -ms-animation:      loading 5s ease-in-out .0s infinite;
+    animation:          loading 5s ease-in-out .0s infinite;
+}
+
+.div3
+{
+    position: relative;
+    top: 40%;
+    left: 40%;
+    width: 25px;
+    height: 25px;
+    background-color: deepskyblue;
+    border-radius: 50%;
+
+    -webkit-animation:  rotate 1s ease-in-out .0s infinite;
+    -moz-animation:     rotate 1s ease-in-out .0s infinite;
+    -ms-animation:      rotate 1s ease-in-out .0s infinite;
+    animation:          rotate 1s ease-in-out .0s infinite;
+}
+
+.div3::before
+{
+    content: "";
+
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
+    background-color: inherit;
+
+    position: absolute;
+    top: 0px;
+    left: -50px;
+}
+
+.div3::after
+{
+    content: "";
+
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
+    background-color: inherit;
+
+    position: absolute;
+    top: 0px;
+    left: 50px;
+}
+
+.div4
+{
+    position: relative;
+    top: 40%;
+    left: 40%;
+    width: 50px;
+    height: 50px;
+    background-color: deepskyblue;
+}
+
+.div4::after
+{
+    content: "";
+
+    width: 20%;
+    height: 20%;
+
+    background-color: inherit;
+    border-radius: 50%;
+
+    position: absolute;
+    top: -20%;
+    left: -20%;
+
+    animation: translate 1666ms ease-in-out .0s infinite;
+}
+
+.parent
+{
+    position: relative;
+    width: 600px;
+    height: 400px;
+    background-color: rgb(207, 65, 8);
+    box-sizing: border-box;
+}
+
+.dimension
+{
+    float: left;
+    width: 50%;
+    height: 50%;
+    /* background-color: rgb(197, 31, 2); */
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+
