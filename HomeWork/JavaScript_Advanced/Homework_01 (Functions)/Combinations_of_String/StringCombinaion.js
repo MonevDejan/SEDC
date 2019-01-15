@@ -1,30 +1,38 @@
-function combination(str){
-    let lenStr = str.length;
-    let result = [];
-    let index = 0;
-    while(index < lenStr){
-    let char = str.charAt(index);
-    let x;
-    let arr = [char];
-    for(x in result){
-        arr.push(""+result[x]+char);
-    }
-    result = result.concat(arr);
-    index++;
-    }
-    for(i=0;i<result.length;i++){
-        for(j=i+1;j<result.length;j++){
-            if(result[i] === result[j]){
-                result.splice(j,1);
+/* The following logic is use:
+We first print all the chars from string
+Then we use combination for one char with others 
+Than we loop the combination function for each char */
+
+function passValue (someString)
+{   
+    //declare a function that finds all combination for one char
+    // had some fun with the scope and closure:))
+    function combination(){
+        let char = "";
+        for (let i = 0; i < arrayOfchar.length-1; i++) {
+            char += arrayOfchar[i];
+    
+            for (let j = (i+1); j < arrayOfchar.length; j++) {
+                let resultTopush = char+arrayOfchar[j];
+                result.push(resultTopush);
             }
         }
     }
-    let div = $("<div>");
-    for(i=0;i<result.length;i++){
-        div.append(`${result[i]}<br>`);
+
+    let result = [];
+    let arrayOfchar = someString.split("");
+
+    // with this we print all the char separatly 
+    arrayOfchar.forEach(element => { 
+        result.push(element);  
+    });
+        
+    // we find combination fro every char
+    while (arrayOfchar.length !== 0){
+        combination();
+        arrayOfchar.shift();
     }
-    $("body").append(div);
     return result;
 }
 
-combination("dog");
+console.log(passValue ("1234"));

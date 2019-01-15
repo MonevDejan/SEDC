@@ -1,8 +1,6 @@
-$("button").click(reverseNumber);
-
-function reverseNumber()
+function reverse_a_number(someNumber)
 {
-    let str = $("input").val().split("").reverse();
-    let number = Number(str.join(""));
-    $("<div>").text(`Reverse Number: ${number}`).appendTo("body");
+	someNumber += "";
+	return someNumber.split("").reverse().join("");
 }
+console.log(reverse_a_number(12345));
