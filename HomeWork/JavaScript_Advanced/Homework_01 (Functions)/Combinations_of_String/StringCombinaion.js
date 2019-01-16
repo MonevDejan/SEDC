@@ -1,38 +1,36 @@
 /* The following logic is use:
-We first print all the chars from string
-Then we use combination for one char with others 
-Than we loop the combination function for each char */
+We use combination for one char with other chars
+Than we use recursion to loop trough the all chars
+Than we print each char individualy  */
 
-function passValue (someString)
-{   
-    //declare a function that finds all combination for one char
-    // had some fun with the scope and closure:))
-    function combination(){
-        let char = "";
-        for (let i = 0; i < arrayOfchar.length-1; i++) {
-            char += arrayOfchar[i];
-    
-            for (let j = (i+1); j < arrayOfchar.length; j++) {
-                let resultTopush = char+arrayOfchar[j];
-                result.push(resultTopush);
-            }
+let result = [];
+let input;
+function combination(someString) {
+    let arrayOfchar = someString.split("");
+    let char = "";
+    // combination for one char with other chars
+    for (let i = 0; i < arrayOfchar.length - 1; i++) {
+        char += arrayOfchar[i];
+
+        for (let j = (i + 1); j < arrayOfchar.length; j++) {
+            let resultTopush = char + arrayOfchar[j];
+            result.push(resultTopush);
         }
     }
-
-    let result = [];
-    let arrayOfchar = someString.split("");
-
-    // with this we print all the char separatly 
-    arrayOfchar.forEach(element => { 
-        result.push(element);  
-    });
-        
-    // we find combination fro every char
-    while (arrayOfchar.length !== 0){
-        combination();
-        arrayOfchar.shift();
+    arrayOfchar.shift();
+    let subString = arrayOfchar.join("");
+    //recursion for the all chars
+    if (arrayOfchar.length !== 0) {
+        combination(subString);
     }
-    return result;
+    // printing char individually 
+    else {
+        let char = input.split("");
+        char.forEach(element => {
+            result.push(element)
+        });
+    }
 }
 
-console.log(passValue ("1234"));
+combination(input = "12345");
+console.log(result);
