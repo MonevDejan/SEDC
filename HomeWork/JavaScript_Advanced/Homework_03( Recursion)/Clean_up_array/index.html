@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Clean up array</title>
+</head>
+<body>
+    <p> 
+        Write a function that will clean up an array, and return the cleaned up value. <br/>
+        The function must not modify the original array. <br/>
+        Cleaning up of an array consists of removing the folowing values it they appear <br/>
+        as elements in the array:<br/>
+        <ul>
+            <li>  null  </li>
+            <li> undefined  </li>
+            <li>  NaN </li>
+            <li>  "" (empty string)  </li>
+
+        </ul>
+        i.e. if the array is [NaN, 0, 15, false, -22, '',undefined, 47, null], <br/>
+        the result of cleanUp(array) should be [0, 15, false, -22, 47]<br/>
+
+        bonus If the array has an array as an element, that element should be cleaned up too.<br/> 
+        if the array is [1, NaN, 2, [3, Nan, 5] ], the result of cleanUp(array) should be [1, 2, [3, 5] ]. <br/>
+        Note that this bonus would require techniques that we haven't covered yet, i.e. it's a hard bonus.<br/>
+    </p>
+
+    <p id="result"> </p>
+    
+    <script src="cleanArray.js">   </script> 
+</body>
+</html>
