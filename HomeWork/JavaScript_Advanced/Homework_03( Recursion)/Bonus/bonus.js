@@ -12,8 +12,6 @@ function findMissingElements (someArray) {
 				console.log(someArray[0]+i+counter);
 				counter += 1;
 			}
-
-
 			let newArray = someArray.splice(someArray[0]+i -1);
 			findMissingElements (newArray);
 			break;
