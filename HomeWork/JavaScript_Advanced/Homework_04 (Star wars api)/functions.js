@@ -78,3 +78,108 @@ function callHome() {
     searchButton.classList.remove("display-none");
     inputSearch.classList.remove("display-none");
 }
+
+function createDivWithButton() {
+    let div = document.createElement("div");
+    let button = document.createElement("button");
+    button.textContent = "Show more results";
+    button.addEventListener("click")
+    div.append(button);
+}
+function callPeople() {
+
+    hideDomElements();
+    //to show the animation while waiting
+    animationGears.classList.remove("display-none");
+    if (tBodyPeople.textContent === "") {
+        sendRequestForPeople(peopleUrl);
+        moreResults.classList.remove("display-none");
+        moreResults.addEventListener("click", () => {
+            if (nextPage !== null) {
+                sendRequestForPeople(nextPage) 
+            } 
+            else {
+                moreResults.classList.add("display-none");
+            }
+        });
+
+    }
+    else {
+        animationGears.classList.add("display-none");
+        tBodyPeople.innerHTML = "";
+        writePeopleInTable(people);
+        table1People.classList.remove("display-none");
+        moreResults.classList.remove("display-none");
+    }
+}
+
+function sendRequestForPeople(urlPeople) {
+    disableLink(peopleButton);
+    fetch(urlPeople)
+        .then(response => response.json())
+        .then(function (myJson) {
+
+            let people = [];
+            for (const person of myJson.results) {
+                people.push(person);
+            }
+            // To hide the animation
+            animationGears.classList.add("display-none");
+            writePeopleInTable(people);
+            table1People.classList.remove("display-none");
+            enableLink(peopleButton);
+            // assigning the new call
+            nextPage = myJson.next;
+        });
+}
+function callPlanets() {
+
+    // Sending request for star wars planets
+    function sendRequestForPlanets(urlPeople) {
+
+        disableLink(planetsButton);
+        fetch(urlPeople)
+            .then(response => response.json())
+            .then(function (myJson) {
+
+                for (const planet of myJson.results) {
+                    planets.push(planet);
+                }
+                // To hide the animation and enable the link
+                animationGears.classList.add("display-none");
+                enableLink(planetsButton);
+                writePlanetsInTable(planets);
+                table2Planets.classList.remove("display-none");
+            });
+    }
+
+    hideDomElements();
+    //to show the animation while waiting
+    animationGears.classList.remove("display-none");
+    if (planets.length === 0) {
+        sendRequestForPlanets(planetsUrl);
+    }
+    else {
+        animationGears.classList.add("display-none");
+        tBodyPlanets.innerHTML = "";
+        writePlanetsInTable(planets);
+        table2Planets.classList.remove("display-none");
+    }
+}
+
+function searchResults() {
+
+    let stringPeople = `https://swapi.co/api/people/?search=${inputSearch.value}`;
+    let stringPlanets = `https://swapi.co/api/planets/?search=${inputSearch.value}`;
+
+    function searchForString(searchUrl) {
+
+        // disableLink(peopleButton);
+        fetch(searchUrl)
+            .then(response => response.json())
+            .then(function (myJson) {
+
+            });
+    }
+
+}
