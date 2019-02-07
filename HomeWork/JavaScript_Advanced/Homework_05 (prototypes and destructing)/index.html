@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Objects</title>
+</head>
+<body>
+    <p>
+        
+  Create a constructor function for Person with properties { name, lastName, dateOfBirth, hometown } <br/>
+and add functions sayFullName() and age() to the prototype of the Person constructor function <br/> <br/>
+
+Write a constructor function for Trainer with  <br/>
+properties { name, lastName, dateOfBirth, hometown, course, yearsOfTeaching } <br/>
+that will have access to the functions from the Person prototype plus <br/>
+ a function to its own prototype that will say the number of years the trainer has been teaching given course <br/>
+
+(bonus) use the Person constructor to create the mutual properties <br/> <br/>
+(bonus) use destructing for the parameters <br/>
+(bonus) Write a function that can be called on any array and return the sum of all the elements in that array that are numbers i.e. <br/> <br/>
+
+let arr = [1, '3', { num: 7 }, 8, 'FunFunFunction', 10, () => `I'm a number`, 33]  <br/> <br/>
+
+arr.getSumOfNumbers(...) // output 52 <br/>
+(bonus) Write a function that can be called on any object and return its keys and its values in  <br/>
+seperate arrays, fillout predefined variables keys and values with the correct array i.e. <br/>
+let keys = [], values = [] <br/>
+let person = { <br/>
+    name: 'Martina', <br/>
+    middleName: 'Luther', <br/>
+    lastName: 'Queen' <br/>
+} <br/>
+person.getKeysAndVals() // with the return result fill the variables acordingly <br/>
+// expected <br/>
+keys === ['name', 'middleName', 'lastName'] <br/>
+values === ['Martina', 'Luther', 'Queen'] <br/>
+
+    </p>
+   
+    <script src="Person.js"></script>
+</body>
+</html>
