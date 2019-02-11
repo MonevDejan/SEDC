@@ -4,41 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Objects</title>
+    <title>prototype and objects</title>
 </head>
 <body>
     <p>
         
-  Create a constructor function for Person with properties { name, lastName, dateOfBirth, hometown } <br/>
-and add functions sayFullName() and age() to the prototype of the Person constructor function <br/> <br/>
+    HOMEWORK:  <br/>
+    Make a Person object with the following properties : <br/>
+    -firstName,  <br/>
+    -lastName,   <br/>
+    -dateOfBirth, <br/>
+    -placeOfBirth, <br/>
+    -details() method that will return full name and placeOfBirth   <br/>
+    -calculateAge() method that will return age in (days, months and years) <br/>
 
-Write a constructor function for Trainer with  <br/>
-properties { name, lastName, dateOfBirth, hometown, course, yearsOfTeaching } <br/>
-that will have access to the functions from the Person prototype plus <br/>
- a function to its own prototype that will say the number of years the trainer has been teaching given course <br/>
-
-(bonus) use the Person constructor to create the mutual properties <br/> <br/>
-(bonus) use destructing for the parameters <br/>
-(bonus) Write a function that can be called on any array and return the sum of all the elements in that array that are numbers i.e. <br/> <br/>
-
-let arr = [1, '3', { num: 7 }, 8, 'FunFunFunction', 10, () => `I'm a number`, 33]  <br/> <br/>
-
-arr.getSumOfNumbers(...) // output 52 <br/>
-(bonus) Write a function that can be called on any object and return its keys and its values in  <br/>
-seperate arrays, fillout predefined variables keys and values with the correct array i.e. <br/>
-let keys = [], values = [] <br/>
-let person = { <br/>
-    name: 'Martina', <br/>
-    middleName: 'Luther', <br/>
-    lastName: 'Queen' <br/>
-} <br/>
-person.getKeysAndVals() // with the return result fill the variables acordingly <br/>
-// expected <br/>
-keys === ['name', 'middleName', 'lastName'] <br/>
-values === ['Martina', 'Luther', 'Queen'] <br/>
+    BONUS: <br/>
+    Make a Family object, that will have : <br/>
+    -number of members, <br/>
+    -array of all members,  <br/>
+    -method that will calculate average age of the family, <br/>
+    -method that will calculate sum of all ages <br/>
 
     </p>
    
-    <script src="Person.js"></script>
+    <script src="Prototype.js"></script>
 </body>
 </html>
