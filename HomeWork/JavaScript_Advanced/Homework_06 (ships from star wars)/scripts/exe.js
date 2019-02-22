@@ -4,11 +4,17 @@ $(() => {
     $('#cargoBuilder').on('click', showCargo);
     $('#minerBuilder').on('click', showMiner);
     $('#build').on('click', () => {
-        let [ship, type] = getVals();
-        buildShip(ship, type);
-        console.log(`New ${type} ship has been created!`);
-        displayShips();
-        hideAll();
+        if (checkValues()) {
+
+            let [ship, type] = getVals();
+            buildShip(ship, type);
+            console.log(`New ${type} ship has been created!`);
+            displayShips();
+            hideAll();
+        }
+        else {
+            return alert("Please insert all of the inputs!");
+        }
     });
 
 
