@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Bitswap\bin\Debug\Bitswap.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Bitswap\bin\Debug\Bitswap.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Bitswap\bin\Debug\Bitswap.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Bitswap\obj\Debug\Bitswap.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Bitswap\obj\Debug\Bitswap.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Bitswap\obj\Debug\Bitswap.pdb

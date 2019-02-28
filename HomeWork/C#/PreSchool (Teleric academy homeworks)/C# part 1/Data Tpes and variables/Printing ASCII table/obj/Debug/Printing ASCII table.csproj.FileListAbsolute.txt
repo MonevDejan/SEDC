@@ -1,0 +1,5 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Printing ASCII table\bin\Debug\Printing ASCII table.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Printing ASCII table\bin\Debug\Printing ASCII table.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Printing ASCII table\bin\Debug\Printing ASCII table.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Printing ASCII table\obj\Debug\Printing ASCII table.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Printing ASCII table\obj\Debug\Printing ASCII table.pdb

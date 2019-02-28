@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Find sum in array\bin\Debug\Find sum in array.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Find sum in array\bin\Debug\Find sum in array.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Find sum in array\bin\Debug\Find sum in array.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Find sum in array\obj\Debug\Find sum in array.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Find sum in array\obj\Debug\Find sum in array.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Find sum in array\obj\Debug\Find sum in array.pdb

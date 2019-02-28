@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Exchange bit\bin\Debug\Exchange bit.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Exchange bit\bin\Debug\Exchange bit.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Exchange bit\bin\Debug\Exchange bit.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Exchange bit\obj\Debug\Exchange bit.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Exchange bit\obj\Debug\Exchange bit.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Exchange bit\obj\Debug\Exchange bit.pdb

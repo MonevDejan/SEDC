@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Learining_Formating\bin\Debug\Learining_Formating.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Learining_Formating\bin\Debug\Learining_Formating.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Learining_Formating\bin\Debug\Learining_Formating.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Learining_Formating\obj\Debug\Learining_Formating.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Learining_Formating\obj\Debug\Learining_Formating.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Learining_Formating\obj\Debug\Learining_Formating.csprojResolveAssemblyReference.cache

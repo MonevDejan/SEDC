@@ -1,0 +1,5 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Interval\bin\Debug\Interval.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Interval\bin\Debug\Interval.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Interval\bin\Debug\Interval.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Interval\obj\Debug\Interval.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Interval\obj\Debug\Interval.pdb

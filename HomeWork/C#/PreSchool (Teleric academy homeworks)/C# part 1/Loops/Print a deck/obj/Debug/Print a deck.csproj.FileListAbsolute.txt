@@ -1,0 +1,6 @@
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\Print a deck\bin\Debug\Print a deck.exe.config
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\Print a deck\bin\Debug\Print a deck.exe
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\Print a deck\bin\Debug\Print a deck.pdb
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\Print a deck\obj\Debug\Print a deck.csprojResolveAssemblyReference.cache
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\Print a deck\obj\Debug\Print a deck.exe
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\Print a deck\obj\Debug\Print a deck.pdb

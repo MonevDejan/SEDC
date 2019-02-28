@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Digit as a word\bin\Debug\Digit as a word.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Digit as a word\obj\Debug\Digit as a word.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Digit as a word\bin\Debug\Digit as a word.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Digit as a word\bin\Debug\Digit as a word.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Digit as a word\obj\Debug\Digit as a word.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Digit as a word\obj\Debug\Digit as a word.pdb

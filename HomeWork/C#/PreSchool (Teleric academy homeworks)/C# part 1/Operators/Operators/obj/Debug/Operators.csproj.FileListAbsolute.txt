@@ -1,0 +1,6 @@
+c:\users\auro\documents\visual studio 2015\Projects\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Operators\obj\Debug\Operators.pdb

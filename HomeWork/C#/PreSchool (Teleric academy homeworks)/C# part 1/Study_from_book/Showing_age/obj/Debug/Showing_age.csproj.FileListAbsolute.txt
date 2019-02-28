@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Showing_age\bin\Debug\Showing_age.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Showing_age\bin\Debug\Showing_age.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Showing_age\bin\Debug\Showing_age.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Showing_age\obj\Debug\Showing_age.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Showing_age\obj\Debug\Showing_age.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Showing_age\obj\Debug\Showing_age.pdb

@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Divide numbers with two\bin\Debug\Divide numbers with two.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Divide numbers with two\bin\Debug\Divide numbers with two.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Divide numbers with two\bin\Debug\Divide numbers with two.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Divide numbers with two\obj\Debug\Even and odd numbers.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Divide numbers with two\obj\Debug\Divide numbers with two.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Divide numbers with two\obj\Debug\Divide numbers with two.pdb

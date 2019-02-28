@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\N-th bit\bin\Debug\N-th bit.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\N-th bit\bin\Debug\N-th bit.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\N-th bit\bin\Debug\N-th bit.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\N-th bit\obj\Debug\N-th bit.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\N-th bit\obj\Debug\N-th bit.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\N-th bit\obj\Debug\N-th bit.pdb

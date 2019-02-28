@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Matrix of numbers (Advanced)\bin\Debug\Matrix of numbers (Advanced).exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Matrix of numbers (Advanced)\bin\Debug\Matrix of numbers (Advanced).exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Matrix of numbers (Advanced)\bin\Debug\Matrix of numbers (Advanced).pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Matrix of numbers (Advanced)\obj\Debug\Matrix of numbers (Advanced).csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Matrix of numbers (Advanced)\obj\Debug\Matrix of numbers (Advanced).exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Matrix of numbers (Advanced)\obj\Debug\Matrix of numbers (Advanced).pdb

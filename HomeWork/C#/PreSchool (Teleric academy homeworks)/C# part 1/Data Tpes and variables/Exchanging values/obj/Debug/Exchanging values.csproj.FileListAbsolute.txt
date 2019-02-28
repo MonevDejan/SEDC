@@ -1,0 +1,15 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Exchanging values\bin\Debug\Exchanging values.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Exchanging values\bin\Debug\Exchanging values.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Exchanging values\bin\Debug\Exchanging values.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Exchanging values\obj\Debug\Exchanging values.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Exchanging values\obj\Debug\Exchanging values.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Exchanging values\obj\Debug\Exchanging values.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Exchanging values\bin\Debug\Exchanging values.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Exchanging values\obj\Debug\Exchanging values.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Exchanging values\obj\Debug\Exchanging values.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\Undercover homework\PreSchool (Teleric academy homeworks)\C# part 1\Data Tpes and variables\Exchanging values\bin\Debug\Exchanging values.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\Undercover homework\PreSchool (Teleric academy homeworks)\C# part 1\Data Tpes and variables\Exchanging values\bin\Debug\Exchanging values.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\Undercover homework\PreSchool (Teleric academy homeworks)\C# part 1\Data Tpes and variables\Exchanging values\bin\Debug\Exchanging values.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\Undercover homework\PreSchool (Teleric academy homeworks)\C# part 1\Data Tpes and variables\Exchanging values\obj\Debug\Exchanging values.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\Undercover homework\PreSchool (Teleric academy homeworks)\C# part 1\Data Tpes and variables\Exchanging values\obj\Debug\Exchanging values.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\Undercover homework\PreSchool (Teleric academy homeworks)\C# part 1\Data Tpes and variables\Exchanging values\obj\Debug\Exchanging values.pdb

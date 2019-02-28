@@ -1,0 +1,5 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\DIvide\bin\Debug\DIvide.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\DIvide\bin\Debug\DIvide.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\DIvide\bin\Debug\DIvide.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\DIvide\obj\Debug\DIvide.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\DIvide\obj\Debug\DIvide.pdb

@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Trailing 0 in N!\bin\Debug\Trailing 0 in N!.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Trailing 0 in N!\bin\Debug\Trailing 0 in N!.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Trailing 0 in N!\bin\Debug\Trailing 0 in N!.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Trailing 0 in N!\obj\Debug\Trailing 0 in N!.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Trailing 0 in N!\obj\Debug\Trailing 0 in N!.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Trailing 0 in N!\obj\Debug\Trailing 0 in N!.pdb

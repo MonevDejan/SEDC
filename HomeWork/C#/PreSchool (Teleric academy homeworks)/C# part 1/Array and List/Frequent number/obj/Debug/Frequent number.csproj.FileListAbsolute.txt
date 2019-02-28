@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Frequent number\bin\Debug\Frequent number.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Frequent number\bin\Debug\Frequent number.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Frequent number\bin\Debug\Frequent number.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Frequent number\obj\Debug\Frequent number.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Frequent number\obj\Debug\Frequent number.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Frequent number\obj\Debug\Frequent number.pdb

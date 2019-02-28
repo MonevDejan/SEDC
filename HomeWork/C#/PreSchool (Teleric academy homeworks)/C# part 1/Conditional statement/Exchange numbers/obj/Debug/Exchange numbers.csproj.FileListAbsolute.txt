@@ -1,0 +1,12 @@
+c:\users\auro\documents\visual studio 2015\Projects\onditional statment\Exchange numbers\bin\Debug\Exchange numbers.exe.config
+c:\users\auro\documents\visual studio 2015\Projects\onditional statment\Exchange numbers\bin\Debug\Exchange numbers.exe
+c:\users\auro\documents\visual studio 2015\Projects\onditional statment\Exchange numbers\bin\Debug\Exchange numbers.pdb
+c:\users\auro\documents\visual studio 2015\Projects\onditional statment\Exchange numbers\obj\Debug\Exchange numbers.csprojResolveAssemblyReference.cache
+c:\users\auro\documents\visual studio 2015\Projects\onditional statment\Exchange numbers\obj\Debug\Exchange numbers.exe
+c:\users\auro\documents\visual studio 2015\Projects\onditional statment\Exchange numbers\obj\Debug\Exchange numbers.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Exchange numbers\bin\Debug\Exchange numbers.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Exchange numbers\bin\Debug\Exchange numbers.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Exchange numbers\bin\Debug\Exchange numbers.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Exchange numbers\obj\Debug\Exchange numbers.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Exchange numbers\obj\Debug\Exchange numbers.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Exchange numbers\obj\Debug\Exchange numbers.pdb

@@ -1,0 +1,8 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Index of letters\bin\Debug\Index of letters.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Index of letters\bin\Debug\Index of letters.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Index of letters\bin\Debug\Index of letters.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Index of letters\obj\Debug\Index of letters.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Index of letters\obj\Debug\Index of letters.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 1\Array and List\Index of letters\bin\Debug\Index of letters.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 1\Array and List\Index of letters\obj\Debug\Index of letters.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 1\Array and List\Index of letters\obj\Debug\Index of letters.pdb

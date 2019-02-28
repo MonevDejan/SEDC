@@ -1,0 +1,6 @@
+c:\users\auro\documents\visual studio 2015\Projects\Solution1\Type in c sharp\bin\Debug\Type in c sharp.exe.config
+c:\users\auro\documents\visual studio 2015\Projects\Solution1\Type in c sharp\bin\Debug\Type in c sharp.exe
+c:\users\auro\documents\visual studio 2015\Projects\Solution1\Type in c sharp\bin\Debug\Type in c sharp.pdb
+c:\users\auro\documents\visual studio 2015\Projects\Solution1\Type in c sharp\obj\Debug\Type in c sharp.csprojResolveAssemblyReference.cache
+c:\users\auro\documents\visual studio 2015\Projects\Solution1\Type in c sharp\obj\Debug\Type in c sharp.exe
+c:\users\auro\documents\visual studio 2015\Projects\Solution1\Type in c sharp\obj\Debug\Type in c sharp.pdb

@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\learning Math\bin\Debug\learning Math.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\learning Math\obj\Debug\learning Math.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\learning Math\obj\Debug\learning Math.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\learning Math\obj\Debug\learning Math.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\learning Math\bin\Debug\learning Math.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\learning Math\bin\Debug\learning Math.pdb

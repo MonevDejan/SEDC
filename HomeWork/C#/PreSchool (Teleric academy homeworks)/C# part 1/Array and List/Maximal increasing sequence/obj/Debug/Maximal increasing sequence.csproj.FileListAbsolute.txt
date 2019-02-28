@@ -1,0 +1,5 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Maximal increasing sequence\bin\Debug\Maximal increasing sequence.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Maximal increasing sequence\bin\Debug\Maximal increasing sequence.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Maximal increasing sequence\bin\Debug\Maximal increasing sequence.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Maximal increasing sequence\obj\Debug\Maximal increasing sequence.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Maximal increasing sequence\obj\Debug\Maximal increasing sequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Point in a circle\bin\Debug\Point in a circle.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Point in a circle\obj\Debug\Point in a circle.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Point in a circle\bin\Debug\Point in a circle.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Point in a circle\bin\Debug\Point in a circle.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Point in a circle\obj\Debug\Point in a circle.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Point in a circle\obj\Debug\Point in a circle.pdb

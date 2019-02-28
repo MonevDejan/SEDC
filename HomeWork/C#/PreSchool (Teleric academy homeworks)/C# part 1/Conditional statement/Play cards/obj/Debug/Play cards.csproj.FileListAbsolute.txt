@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Play cards\bin\Debug\Play cards.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Play cards\bin\Debug\Play cards.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Play cards\bin\Debug\Play cards.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Play cards\obj\Debug\Play cards.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Play cards\obj\Debug\Play cards.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Play cards\obj\Debug\Play cards.pdb

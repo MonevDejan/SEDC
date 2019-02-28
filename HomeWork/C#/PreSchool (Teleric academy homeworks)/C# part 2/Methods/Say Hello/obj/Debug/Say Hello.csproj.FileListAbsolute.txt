@@ -1,0 +1,14 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\Methods\bin\Debug\Methods.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\Methods\bin\Debug\Methods.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\Methods\bin\Debug\Methods.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\Methods\obj\Debug\Methods.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\Methods\obj\Debug\Methods.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Methods\obj\Debug\Methods.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Say Hello\bin\Debug\Methods.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Say Hello\obj\Debug\Methods.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Say Hello\obj\Debug\Methods.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Say Hello\bin\Debug\Methods.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Say Hello\bin\Debug\Methods.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Say Hello\obj\Debug\Say Hello.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\auro\documents\visual studio 2015\Projects\Array and List\Compare arrays\bin\Debug\Compare arrays.exe.config
+c:\users\auro\documents\visual studio 2015\Projects\Array and List\Compare arrays\bin\Debug\Compare arrays.exe
+c:\users\auro\documents\visual studio 2015\Projects\Array and List\Compare arrays\bin\Debug\Compare arrays.pdb
+c:\users\auro\documents\visual studio 2015\Projects\Array and List\Compare arrays\obj\Debug\Compare arrays.csprojResolveAssemblyReference.cache
+c:\users\auro\documents\visual studio 2015\Projects\Array and List\Compare arrays\obj\Debug\Compare arrays.exe
+c:\users\auro\documents\visual studio 2015\Projects\Array and List\Compare arrays\obj\Debug\Compare arrays.pdb

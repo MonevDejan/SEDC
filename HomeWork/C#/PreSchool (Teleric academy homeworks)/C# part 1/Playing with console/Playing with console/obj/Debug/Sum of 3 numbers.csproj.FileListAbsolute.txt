@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Playing with console\bin\Debug\Playing with console.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Playing with console\bin\Debug\Playing with console.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Playing with console\bin\Debug\Playing with console.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Playing with console\obj\Debug\Sum of 3 numbers.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Playing with console\obj\Debug\Playing with console.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Playing with console\obj\Debug\Playing with console.pdb

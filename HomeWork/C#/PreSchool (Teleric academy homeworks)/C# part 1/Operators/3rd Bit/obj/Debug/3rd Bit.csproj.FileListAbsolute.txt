@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\3rd Bit\bin\Debug\3rd Bit.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\3rd Bit\bin\Debug\3rd Bit.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\3rd Bit\bin\Debug\3rd Bit.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\3rd Bit\obj\Debug\3rd Bit.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\3rd Bit\obj\Debug\3rd Bit.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\3rd Bit\obj\Debug\3rd Bit.pdb

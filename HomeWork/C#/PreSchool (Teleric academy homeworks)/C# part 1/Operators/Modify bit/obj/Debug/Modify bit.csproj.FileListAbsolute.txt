@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Modify bit\bin\Debug\Modify bit.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Modify bit\bin\Debug\Modify bit.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Modify bit\bin\Debug\Modify bit.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Modify bit\obj\Debug\Modify bit.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Modify bit\obj\Debug\Modify bit.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Modify bit\obj\Debug\Modify bit.pdb

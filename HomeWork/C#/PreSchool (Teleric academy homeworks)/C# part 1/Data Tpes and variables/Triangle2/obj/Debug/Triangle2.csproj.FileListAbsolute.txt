@@ -1,0 +1,8 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Triangle2\bin\Debug\Triangle2.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Triangle2\bin\Debug\Triangle2.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Triangle2\bin\Debug\Triangle2.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Triangle2\obj\Debug\Triangle2.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Triangle2\obj\Debug\Triangle2.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Triangle2\bin\Debug\Triangle2.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Triangle2\obj\Debug\Triangle2.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Triangle2\obj\Debug\Triangle2.pdb

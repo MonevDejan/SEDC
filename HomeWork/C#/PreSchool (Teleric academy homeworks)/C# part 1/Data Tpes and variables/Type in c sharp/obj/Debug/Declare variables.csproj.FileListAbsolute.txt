@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Type in c sharp\bin\Debug\Type in c sharp.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Type in c sharp\obj\Debug\Type in c sharp.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Type in c sharp\obj\Debug\Type in c sharp.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Type in c sharp\bin\Debug\Type in c sharp.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Type in c sharp\obj\Debug\Type in c sharp.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Type in c sharp\obj\Debug\Type in c sharp.pdb

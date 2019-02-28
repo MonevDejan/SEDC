@@ -1,0 +1,9 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Selection sort\bin\Debug\Selection sort.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Selection sort\bin\Debug\Selection sort.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Selection sort\bin\Debug\Selection sort.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Selection sort\obj\Debug\Selection sort.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Selection sort\obj\Debug\Selection sort.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Selection sort\obj\Debug\Selection sort.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 1\Array and List\Selection sort\bin\Debug\Selection sort.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 1\Array and List\Selection sort\obj\Debug\Selection sort.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 1\Array and List\Selection sort\obj\Debug\Selection sort.pdb

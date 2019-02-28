@@ -1,0 +1,6 @@
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\MMSA of N numbers\bin\Debug\MMSA of N numbers.exe.config
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\MMSA of N numbers\bin\Debug\MMSA of N numbers.exe
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\MMSA of N numbers\bin\Debug\MMSA of N numbers.pdb
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\MMSA of N numbers\obj\Debug\MMSA of N numbers.csprojResolveAssemblyReference.cache
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\MMSA of N numbers\obj\Debug\MMSA of N numbers.exe
+c:\Users\auro\documents\visual studio 2015\Projects\Loops\MMSA of N numbers\obj\Debug\MMSA of N numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Formating numbers\bin\Debug\Formating numbers.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Formating numbers\bin\Debug\Formating numbers.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Formating numbers\bin\Debug\Formating numbers.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Formating numbers\obj\Debug\Formating numbers.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Formating numbers\obj\Debug\Formating numbers.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Formating numbers\obj\Debug\Formating numbers.pdb

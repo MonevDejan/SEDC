@@ -1,0 +1,6 @@
+c:\users\auro\documents\visual studio 2015\Projects\Study_from_book\Study_from_book\bin\Debug\Study_from_book.exe.config
+c:\users\auro\documents\visual studio 2015\Projects\Study_from_book\Study_from_book\bin\Debug\Study_from_book.exe
+c:\users\auro\documents\visual studio 2015\Projects\Study_from_book\Study_from_book\bin\Debug\Study_from_book.pdb
+c:\users\auro\documents\visual studio 2015\Projects\Study_from_book\Study_from_book\obj\Debug\Study_from_book.exe
+c:\users\auro\documents\visual studio 2015\Projects\Study_from_book\Study_from_book\obj\Debug\Study_from_book.pdb
+c:\users\auro\documents\visual studio 2015\Projects\Study_from_book\Study_from_book\obj\Debug\Study_from_book.csprojResolveAssemblyReference.cache

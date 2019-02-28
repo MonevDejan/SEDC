@@ -1,0 +1,5 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Moon Gravity\bin\Debug\Moon Gravity.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Moon Gravity\bin\Debug\Moon Gravity.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Moon Gravity\bin\Debug\Moon Gravity.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Moon Gravity\obj\Debug\Moon Gravity.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Moon Gravity\obj\Debug\Moon Gravity.pdb

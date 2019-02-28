@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Bigest of 3\bin\Debug\Bigest of 3.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Bigest of 3\bin\Debug\Bigest of 3.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Bigest of 3\bin\Debug\Bigest of 3.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Bigest of 3\obj\Debug\Bigest of 3.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Bigest of 3\obj\Debug\Bigest of 3.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Bigest of 3\obj\Debug\Bigest of 3.pdb

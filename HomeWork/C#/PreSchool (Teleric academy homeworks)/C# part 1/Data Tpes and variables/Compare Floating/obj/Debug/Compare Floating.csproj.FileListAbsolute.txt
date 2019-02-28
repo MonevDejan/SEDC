@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Compare Floating\bin\Debug\Compare Floating.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Compare Floating\bin\Debug\Compare Floating.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Compare Floating\bin\Debug\Compare Floating.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Compare Floating\obj\Debug\Compare Floating.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Compare Floating\obj\Debug\Compare Floating.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Compare Floating\obj\Debug\Compare Floating.pdb

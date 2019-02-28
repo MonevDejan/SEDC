@@ -1,0 +1,6 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to binary\bin\Debug\Decimal to binary.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to binary\bin\Debug\Decimal to binary.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to binary\bin\Debug\Decimal to binary.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to binary\obj\Debug\Decimal to binary.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to binary\obj\Debug\Decimal to binary.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to binary\obj\Debug\Decimal to binary.pdb

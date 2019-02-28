@@ -1,0 +1,9 @@
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal system\bin\Debug\Hexadecimal system.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal system\bin\Debug\Hexadecimal system.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal system\bin\Debug\Hexadecimal system.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal system\obj\Debug\Hexadecimal system.csprojResolveAssemblyReference.cache
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal system\obj\Debug\Hexadecimal system.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal system\obj\Debug\Hexadecimal system.pdb
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Hexadecimal system\bin\Debug\Hexadecimal system.exe.config
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Hexadecimal system\obj\Debug\Hexadecimal system.exe
+C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Hexadecimal system\obj\Debug\Hexadecimal system.pdb
