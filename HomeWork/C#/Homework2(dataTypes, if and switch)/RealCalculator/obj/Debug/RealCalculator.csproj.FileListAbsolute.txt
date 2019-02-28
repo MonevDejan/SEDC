@@ -1,0 +1,14 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\RealCalculator\bin\Debug\RealCalculator.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\RealCalculator\bin\Debug\RealCalculator.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\RealCalculator\bin\Debug\RealCalculator.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\RealCalculator\obj\Debug\RealCalculator.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\RealCalculator\obj\Debug\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\RealCalculator\obj\Debug\RealCalculator.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\RealCalculator\obj\Debug\RealCalculator.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\RealCalculator\bin\Debug\RealCalculator.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\RealCalculator\bin\Debug\RealCalculator.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\RealCalculator\bin\Debug\RealCalculator.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\RealCalculator\obj\Debug\RealCalculator.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\RealCalculator\obj\Debug\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\RealCalculator\obj\Debug\RealCalculator.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\RealCalculator\obj\Debug\RealCalculator.pdb

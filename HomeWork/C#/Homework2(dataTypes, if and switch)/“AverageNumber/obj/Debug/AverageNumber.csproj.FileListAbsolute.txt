@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\“AverageNumber\bin\Debug\“AverageNumber.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\“AverageNumber\bin\Debug\“AverageNumber.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\“AverageNumber\bin\Debug\“AverageNumber.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\“AverageNumber\obj\Debug\AverageNumber.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\“AverageNumber\obj\Debug\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\“AverageNumber\obj\Debug\“AverageNumber.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\Git Homework\HomeWork\C#\Homework2(dataTypes, if and switch)\“AverageNumber\obj\Debug\“AverageNumber.pdb
