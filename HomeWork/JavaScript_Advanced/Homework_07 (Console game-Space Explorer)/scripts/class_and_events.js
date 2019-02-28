@@ -13,7 +13,7 @@ class Ship {
         this.speed = speed;
         this.img = img;
 
-
+        this.distance = 0;
         this.credits = 500;
         this.isWorking = false;
         this.isDamaged = false;
@@ -22,7 +22,7 @@ class Ship {
         this.maxHull = this.hull;
         this.maxFuel = this.fuel;
     }
-    start(planet) {
+    async start(planet) {
         if (!(planet instanceof Planet)) {
             console.log("That is not a planet!");
             return;
@@ -31,7 +31,8 @@ class Ship {
         let fuelReserve = this.fuel - (planet.distance * 20)
         let malfunctionShip = (this.isDamaged) || (this.hull <= 0) || (this.crew <= 0);
         let planetDistance = (planet.distance * 1000) / this.speed;
-
+        this.distance = planetDistance;
+      
         if (this.dockedPlanet === planet.name) {
             console.log("You are on this planet");
             return;
@@ -47,12 +48,19 @@ class Ship {
             return;
         };
 
+        makeButtonsInactive(allButtons);
+        debugger;
         console.log('The ship has started traveling')
 
         setTimeout(() => {
+            if (checkForGameOver(chosenShip)[0]) { 
+                return; 
+            };
             console.log('The ship has reached the planet!');
             this.dock(planet)
         }, planetDistance)
+
+        await startEvent(chosenShip);
 
         this.fuel = fuelReserve;
         this.isWorking = true;
@@ -60,6 +68,7 @@ class Ship {
     dock(planet) {
         setTimeout(function () {
             console.log('The ship docked this planets');
+            makeButtonsActive(allButtons);
         }, 2000);
 
         this.dockedPlanet = planet.name;
@@ -178,30 +187,7 @@ class SpaceEvent {
         this.fuelModifier = fuelModifier;
         this.hullmodifier = hullmodifier;
     }
-    startEvent() {
-        console.log("start event");
-    }
-
-    generateEvents() {
-        console.log("event")
-    }
 }
-
-/* 
-name - Name of the event
-description - Description what has happened to the ship
-crewModifier - Crew modification from the event ( ex: 0 if the crew is affected, -1 if a crew is lost and 1 if a crew member is added )
-fuelModifier - Fuel modification from the event ( same example as crew )
-hullmodifier - hull modification from the event ( same example as crew )
-    startEvent - Accepts an argument of a ship object. Checks if the object is a ship.
-If it is after 4 seconds it changes the ship stats if there are any modifiers and 
-prints a message in the console with the name of the event, the description and what 
-changed on the ship. Help: Think what this should return if we want to queue them one by one.
-    generateEvents - static method that accepts time and array of events and chooses random events from the array depending
-on the time. The method starts from 1 event. If the time is longer than 8 seconds it chooses 2 events,
-if it's more than 18 seconds 3 events and if its larger than 26 seconds 4 events.
-The events are chosen at random and there can be multiple events of the same kind. 
-This method returns an array of the chosen events.*/
 
 let events = [
     new SpaceEvent("Fuel Leak", "Due to low maintenance of the ship, the fuel tank leaked. The leak was patched, but we lost some fuel.", 0, -50, 0),
@@ -217,37 +203,4 @@ let events = [
     new SpaceEvent("Destroyed Transport Ship", "You encounter a destroyed transport ship. It's dangerous, but you try salvaging its fuel tank.", 0, +150, -80),
     new SpaceEvent("Angry Spider", "An angry spider appears on the deck. The captain stomps on it. Everything is fine", 0, 0, 0)
 ];
-
-
-let crushinator = new Ship("Crushinator", 5, 540, 400, 0.2, "img/Crushinator.png");
-let atarFighter = new Ship("StarFighter", 3, 380, 500, 0.5, "./img/StarFighter.png");
-let scouter = new Ship("Scouter", 1, 300, 300, 0.9, "img/Scouter.png");
-
-let rubicon9 = new Planet("Rubicon9", 300000, 2000000, 1, 2, "img/Rubicon9.png");
-let r7 = new Planet("R7", 120000, 4000000, 7, 3, "img/R7.png");
-let magmus = new Planet("Magmus", 500000, 10000000, 1, 1, "img/Magmus.png");
-let dextriaey = new Planet("Dextriaey", 50000, 500000, 1, 3, "img/Dextriaey.png");
-let b181 = new Planet("B18-1", 250000, 4000000, 1, 2, "img/B18-1.png");
-
-
-let divShips = document.getElementById("ships");
-let chosenShip;
-
-let shipButtons = document.querySelectorAll("#ships button");
-
-shipButtons[0].addEventListener("click", () => {
-    chosenShip = crushinator;
-    divShips.classList.add("display-none");
-});
-
-shipButtons[1].addEventListener("click", () => {
-    chosenShip = atarFighter;
-    divShips.classList.add("display-none");
-});
-shipButtons[2].addEventListener("click", () => {
-    chosenShip = scouter;
-    divShips.classList.add("display-none");
-});
-
-
 
