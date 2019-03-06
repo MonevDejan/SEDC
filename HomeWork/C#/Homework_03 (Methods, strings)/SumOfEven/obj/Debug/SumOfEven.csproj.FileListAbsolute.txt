@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\SumOfEven\bin\Debug\SumOfEven.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\SumOfEven\bin\Debug\SumOfEven.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\SumOfEven\bin\Debug\SumOfEven.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\SumOfEven\obj\Debug\SumOfEven.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\SumOfEven\obj\Debug\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\SumOfEven\obj\Debug\SumOfEven.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\SumOfEven\obj\Debug\SumOfEven.pdb

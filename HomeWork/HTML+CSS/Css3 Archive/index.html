@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Specifies the characters -->
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+
+    <!-- Responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Short description max 155 characters -->
+    <meta name="description" content="An Essay on Installation Art" />
+
+    <!--  a list of comma-separated words that a user might search on to find the page -->
+    <meta name="keywords" content="installation, art, opinion" />
+
+    <!-- This indicates whether search engines should add this page to their search results or not. 
+        A value of noindex can be used if this page should not be added. 
+        A value of nofollow can be used if search engines should add this page
+        in their results but not any pages that it links to. 
+    -->
+    <meta name="robots" content="nofollow" />
+
+    <!-- defines the author of the web page. -->
+    <meta http-equiv="author" content="Jon Duckett" />
+
+    <!--  This prevents the browser from caching the page. 
+        (That is, storing it locally to save time downloading it on subsequent visits.) 
+    -->
+    <meta http-equiv="pragma" content="no-ca" />
+
+    <!-- Because browsers often cache the content of a page, 
+        the expires option can be used to indicate when the page should expire (and no longer be cached). 
+    -->
+    <meta http-equiv="expires" content="Fri, 04 Apr 2014 23:59:59 GMT" />
+
+    <!-- Refresh document every 30s -->
+    <meta http-equiv="refresh" content="30">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Document</title>
+</head>
+
+<body>
+
+    <!-- Qutations -->
+    <div>
+
+        <!-- used for longer quotes that take up an entire paragraph. -->
+        <blockquote>Blockquote</blockquote>
+
+        <!-- used for shorter quotes that sit within a paragraph. -->
+        <q>Quote</q>
+    </div>
+
+    <!-- Semantic elements -->
+    <div>
+        <!-- element indicates that its content has strong importance -->
+        <!-- Shown as bold -->
+        <strong>Strong</strong>
+
+        <!--  element indicates emphasis that subtly changes the meaning of a sentence -->
+        <!-- Shown as italic-->
+        <em>Emphasis</em>
+
+        <!-- ABBR tag -->
+        <!-- ABBREVIATIONS & ACRONYMS -->
+        <p>
+            <abbr title="National Aeronautics and Space Administration">NASA</abbr>
+            do some crazy stuff.
+        </p>
+    </div>
+
+    <!-- specific Formating elements -->
+    <div>
+        <!-- new line -->
+        <br />
+        <!-- horizontal line -->
+        <hr />
+        <!-- Bold -->
+        <b>Bold</b>
+        <!--Italic -->
+        <i>Italic</i>
+        <!-- Underline -->
+        <u>Underline</u>
+        <!--superscriptContent -->
+        <sup>superscript</sup>
+        <!--subscriptContent -->
+        <sub>subscript</sub>
+
+        <cite>Citation</cite>
+        <dfn>Definition</dfn>
+        <address>Address</address>
+
+        <!-- text with line under the word -->
+        <ins>Inserted text</ins>
+        <!-- text with line acros the word -->
+        <del>Deleted text</del>
+    </div>
+
+    <!-- Lists -->
+    <div>
+        <!-- ordered list numberd bullet point-->
+        <ol>
+            <li> List item </li>
+            <li> List item </li>
+            <li> List item </li>
+        </ol>
+        <!-- Unordered list with bullet point from style-->
+        <ul style="list-style-type: square;">
+            <li> List item </li>
+            <li> List item </li>
+            <li> List item </li>
+            <li> List item </li>
+        </ul>
+
+        <!--definition list are made up of a set of terms along with the definitions for each of those terms -->
+        <dl>
+            <dt>Sashimi</dt>
+            <dd>Sliced raw fish that is served with condiments such as
+                shredded daikon radish or ginger root, wasabi and soy sauce</dd>
+            <dt>Scale</dt>
+            <dd>A device used to accurately measure
+                the weight of ingredients</dd>
+        </dl>
+    </div>
+
+    <!-- Tables -->
+    <div>
+        <table border="2" cellpadding="10" cellspacing="15">
+
+            <!-- Table Caption -->
+            <caption>HTML Table</caption>
+
+            <!-- Table Header -->
+            <thead>
+                <!-- Table Header Row -->
+                <tr>
+                    <!-- Table Header Cell -->
+                    <th>Column 01</th>
+                    <th>Column 02</th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <!-- Table Body -->
+            <tbody>
+                <!-- Table Row 01 -->
+                <tr>
+                    <!-- Table Data Cells -->
+                    <td>Cell 01</td>
+                    <td>Cell 02</td>
+                    <td rowspan="2"></td>
+                </tr>
+
+                <!-- Table Row 02 -->
+                <tr>
+                    <!-- Table Data Cells -->
+                    <td>Cell 03</td>
+                    <td>Cell 04</td>
+                </tr>
+            </tbody>
+
+            <!-- Table Footer -->
+            <tfoot>
+                <!-- Table Footer Row -->
+                <tr>
+                    <!-- Table Data Cells -->
+                    <td colspan="2">Total 01</td>
+                    <td></td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+    <!-- forms -->
+    <div>
+        <form action="" method="POST" id="First_form">
+            <fieldset>
+                <fieldset>
+                    <!-- This types are for input tag -->
+                    <label for="name"> First name:</label> <br />
+                    <input type="text" name="First_name" id="name" />
+                    <br />
+                    <br />
+                    <input type="radio" name="gender" value="Male" id="Male" />
+                    <label for="Male"> Male </label> <br />
+                    <input type="radio" name="gender" value="Female" id="Female" checked />
+                    <label for="Female"> Female </label> <br />
+                    <br />
+                    <br />
+                    <label for="password"> Password:</label> <br />
+                    <input type="password" name="password" id="password" required />
+                    <br />
+                    <br />
+                    <input type="submit" value="Send" />
+                    <br />
+                    <br />
+                    <p> Please select you favorit radio </p>
+                    <label for="Itunes"> Itunes:</label>
+                    <input type="checkbox" name="checkbox1" value="itunes" id="Itunes" />
+                    <label for="Antena5"> Antena5:</label>
+                    <input type="checkbox" name="checkbox1" value="Antena5" id="Antena5" />
+                    <label for="kanal77"> kanal77: </label>
+                    <input type="checkbox" name="checkbox1" value="kanal77" id="kanal77" checked />
+                    <br />
+                    <br />
+                    <input type="file" name="file" />
+                    <br />
+                    <br />
+                    <input type="hidden" name="bookmarks" value="Trying to hide things" />
+                    <br />
+                    <br />
+                    <input type="date" name="date" />
+                    <br />
+                    <br />
+                    <input type="email" name="email" /> <!-- Can support multiply email adresses separated by coma-->
+                    <br />
+                    <br />
+                    <input type="url" name="url" placeholder="//https:example.com" />
+                    <br />
+                    <br />
+                    <input type="search" value="Search" />
+                    <br />
+                    <br />
+                </fieldset>
+
+                <!-- Text area tag -->
+                <textarea name="comment" id="Comment" cols="20" rows="5">Enter some comment   </textarea>
+                <br />
+                <br />
+                <!-- Select tag-->
+                <fieldset>
+                    <p>Please select your chess piece</p>
+                    <select name="Chees_piece">
+                        <option disabled selected>Choose a piece</option>
+                        <option value="rook">Rook</option>
+                        <option value="Pawn">Pawn</option>
+                        <option value="Bishop">Bishop</option>
+                    </select>
+                    <br />
+                    <br />
+                    <select name="Chees_piece" multiple>
+                        <!-- The multiply values goes to server in array-->
+                        <option disabled selected>Choose a piece</option>
+                        <option value="rook">Rook</option>
+                        <option value="Pawn">Pawn</option>
+                        <option value="Bishop">Bishop</option>
+                    </select>
+                    <!-- Buttons -->
+                    <button> <img src="../images/blank.jpeg" /> Button </button>
+                </fieldset>
+            </fieldset>
+    </div>
+
+    <!-- Hyperlinks -->
+    <div>
+        <!-- Hyperlinks -->
+        <h1 id="top-page">Hyperlinks 01</h1>
+        <!-- Anchor -->
+        <a href="#top-page">Back to Top</a>
+
+        <!-- Target:
+            _blank - Opens the linked document in a new window or tab
+            _self - Opens the linked document in the same frame as it was clicked (this is default)
+         -->
+        <!-- Absolute URL -->
+        <a href="http://google.com" target="_blank">Google</a>
+
+        <!-- Relative URL (from folder) -->
+        <a href="hyperlinks02.html">Hyperlinks 02</a>
+
+        <a href="category/hyperlinks03.html">Hyperlinks 03</a>
+
+        <!-- Link to Email Address -->
+        <a href="mailto:jane_dimeski@yahoo.com">Send email to Jane</a>
+
+    </div>
+
+    <!-- Images and map images -->
+    <div>
+        <!-- Image -->
+        <img src="img/html5-css3.png" alt="HTML Logo and CSS logo" width="350" />
+
+        <!-- Image as a link -->
+        <a href="http://w3schools.com" target="_blank">
+            <img src="img/html5-css3.png" alt="HTML Logo and CSS logo" width="500" />
+        </a>
+
+        <!-- Image Map -->
+        <img src="img/html5-css3.png" alt="HTML Logo and CSS logo" usemap="#html-map" />
+
+        <map name="html-map">
+            <area shape="rect" coords="5,5,558,582" href="http://w3schools.com" target="_blank" />
+            <area shape="poly" coords="714,157,746,506,889,546,1026,506,1056,157" href="http://google.com"
+                target="_blank" />
+        </map>
+
+    </div>
+
+    <!-- Layout elements -->
+    <div>
+        <header>
+            <h1>Using layot elements from html5 </h1>
+            <h2>It will be fun! :) </h2>
+        </header>
+
+        <nav>
+            <button> Home </button>
+            <button> Contact </button>
+            <button> Images </button>
+            <button> About </button>
+        </nav>
+
+        <br />
+        <div id="one_row">
+            <section>
+                <h3> This will be the first text</h3>
+                <article>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br />
+                        Quaerat corrupti, vero mollitia, harum praesentium ex deserunt <br />
+                        nesciunt autem totam sed reprehenderit velit, <br />
+                        dignissimos fugit qui illum natus reiciendis sit ipsum!
+                    </p>
+                </article>
+                <h3> This will be the second text</h3>
+                <article>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br />
+                        Quaerat corrupti, vero mollitia, harum praesentium ex deserunt <br />
+                        nesciunt autem totam sed reprehenderit velit, <br />
+                        dignissimos fugit qui illum natus reiciendis sit ipsum!
+                    </p>
+                </article>
+            </section>
+            <aside>
+                <div>
+                    <p>Do you want to see this?</p>
+                    <p>click here to see other topic</p>
+                </div>
+                <div>
+                    <p>Grape diem </p>
+                    <p>Fun page</p>
+                </div>
+            </aside>
+        </div>
+
+        <footer>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br />
+                Quaerat corrupti, vero mollitia, harum praesentium ex deserunt <br />
+                nesciunt autem totam sed reprehenderit velit, <br />
+                dignissimos fugit qui illum natus reiciendis sit ipsum!
+            </p>
+        </footer>
+    </div>
+
+    <!-- Audio and video -->
+    <div>
+
+        <!-- src - This attribute specifies the path to the video.
+                type - This attribute allows you to specify type of the video.
+
+                (poster and width, hight only aplly for video)
+                poster - This attribute allows you to specify an image to show while the 
+                video is downloading or until the user tells the video to play.
+                width, height - These attributes specify the size of the player in pixels. 
+        -->
+        <!-- controls - When used, this attribute indicates that the browser should supply its own controls for playback.
+                autoplay - When used, this attribute specifies that the file should play automatically.
+                loop - When used, this attribute indicates that the video should start playing again once it has ended. 
+         -->
+        <!-- preload - This attribute tells the browser what to do when the page loads. It can have one of three values:
+                none - The browser should not load the video until the user presses play.
+                auto - The browser should download the video when the page loads.
+                metadata - The browser should just collect information such as the size, first frame, track list, and duration.
+        -->
+
+        <!-- Video -->
+        <div>
+            <video src="video/puppy.mp4" type="video/mp4" poster="images/puppy.jpg" width="400" height="300"
+                preload="metadata" controls loop>
+                <p>A video of a puppy playing in the snow</p>
+            </video>
+        </div>
+
+        <!-- Audio -->
+        <div>
+            <audio src="audio/test-audio.ogg" controls autoplay>
+                <p>This browser does not support our audio
+                    format.</p>
+            </audio>
+        </div>
+
+    </div>
+
+    <!-- Inframe -->
+
+    <div>
+        <iframe src="http://maps.google.co.uk/maps?q=moma+new+york
+            &output=embed" width="450" height="350">
+        </iframe>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\StudentGroup\bin\Debug\StudentGroup.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\StudentGroup\bin\Debug\StudentGroup.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\StudentGroup\bin\Debug\StudentGroup.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\StudentGroup\obj\Debug\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\StudentGroup\obj\Debug\StudentGroup.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_03 (Methods, strings)\StudentGroup\obj\Debug\StudentGroup.pdb

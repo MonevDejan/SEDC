@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculator", "AgeCalculator\AgeCalculator.csproj", "{4B9FBD01-BE2D-40F1-B350-182A750686B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfEven", "SumOfEven\SumOfEven.csproj", "{EC4EDFC6-4942-4D73-A80A-C39AA0DB457B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGroup", "StudentGroup\StudentGroup.csproj", "{CD6CB4CA-DA91-485D-902F-F8E1866BCD39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B9FBD01-BE2D-40F1-B350-182A750686B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9FBD01-BE2D-40F1-B350-182A750686B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9FBD01-BE2D-40F1-B350-182A750686B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9FBD01-BE2D-40F1-B350-182A750686B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4EDFC6-4942-4D73-A80A-C39AA0DB457B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4EDFC6-4942-4D73-A80A-C39AA0DB457B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4EDFC6-4942-4D73-A80A-C39AA0DB457B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4EDFC6-4942-4D73-A80A-C39AA0DB457B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6CB4CA-DA91-485D-902F-F8E1866BCD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6CB4CA-DA91-485D-902F-F8E1866BCD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6CB4CA-DA91-485D-902F-F8E1866BCD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6CB4CA-DA91-485D-902F-F8E1866BCD39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16932259-7695-401D-A87E-207FAFBFC475}
+	EndGlobalSection
+EndGlobal
