@@ -30,13 +30,13 @@ namespace SumOfEven
         // To check if the input can be converted to int
         static int StringToInt ()
         {
-            int randomNumber = 0;
+            int randomNumber;
             bool check = int.TryParse(Console.ReadLine(), out randomNumber);
 
             if (!check)
             {
                 Console.WriteLine("Please enter valid number");
-                StringToInt();
+                randomNumber = StringToInt();
             }
             return randomNumber;
         }
