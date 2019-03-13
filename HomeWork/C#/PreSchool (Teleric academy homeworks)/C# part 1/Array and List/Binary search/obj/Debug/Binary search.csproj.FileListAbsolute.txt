@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Binary search\bin\Debug\Binary search.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Binary search\bin\Debug\Binary search.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Binary search\bin\Debug\Binary search.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Binary search\obj\Debug\Binary search.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Binary search\obj\Debug\Binary search.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Binary search\obj\Debug\Binary search.pdb

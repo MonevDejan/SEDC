@@ -26,27 +26,60 @@ namespace AgeCalculator
             return age;
         }
 
-        static void Main()
+        
+        static bool RunProgramAgain()
         {
-            
-            Console.WriteLine("Please insert your birth date in the folowing format (year, month, day)");
+            bool check;
+            string input = Console.ReadLine();
+
+            if (input == "Y" || input == "y")
+            {
+                check = true;
+            }
+            else if (input == "N" || input == "n")
+            {
+                check = false;
+            }
+            else
+            {
+                Console.WriteLine("Please enter Y or N");
+                check = RunProgramAgain();
+            }
+            return check;
+        }
+        
+        static DateTime ParseDate ()
+        {
             string birthDate = Console.ReadLine();
 
             DateTime convertedDate;
-            bool check = DateTime.TryParse( birthDate, out convertedDate);
+            bool check = DateTime.TryParse(birthDate, out convertedDate);
 
             if (!check)
             {
                 Console.WriteLine("Please enter valid date");
+                convertedDate = ParseDate();
             }
-            else
+            return convertedDate;
+        }
+
+        static void Main()
+        {
+            bool RunProgram = true;
+
+            do
             {
-                DateTime age = AgeCalculator(convertedDate);
+                Console.WriteLine("Please insert your birth date in the folowing format (year, month, day)");
+
+                DateTime age = AgeCalculator(ParseDate());
+
                 Console.WriteLine($"You are {age.Year} years, {age.Month} month and {age.Day} day old");
-            }
+                Console.WriteLine("__________________________________________________________________");
+                Console.Write("Do you want to calculate another age Y / N ? ");
+                RunProgram = RunProgramAgain();
 
-
-            Main();
+            } while (RunProgram);
+            
         }
     }
 }

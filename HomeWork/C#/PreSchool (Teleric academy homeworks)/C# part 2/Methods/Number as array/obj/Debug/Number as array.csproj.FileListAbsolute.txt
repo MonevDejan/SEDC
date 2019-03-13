@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Number as array\bin\Debug\Number as array.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Number as array\bin\Debug\Number as array.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Number as array\bin\Debug\Number as array.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Number as array\obj\Debug\Number as array.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Number as array\obj\Debug\Number as array.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Number as array\obj\Debug\Number as array.pdb

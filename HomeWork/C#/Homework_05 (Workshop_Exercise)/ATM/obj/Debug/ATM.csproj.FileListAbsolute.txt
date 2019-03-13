@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\ATM\bin\Debug\ATM.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\ATM\bin\Debug\ATM.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\ATM\bin\Debug\ATM.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\ATM\obj\Debug\ATM.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\ATM\obj\Debug\ATM.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\ATM\obj\Debug\ATM.csprojAssemblyReference.cache

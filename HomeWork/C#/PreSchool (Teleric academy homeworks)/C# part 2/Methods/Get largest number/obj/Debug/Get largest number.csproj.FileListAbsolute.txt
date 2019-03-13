@@ -1,8 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\Get largest number\bin\Debug\Get largest number.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\Get largest number\bin\Debug\Get largest number.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\Get largest number\bin\Debug\Get largest number.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\Get largest number\obj\Debug\Get largest number.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\Get largest number\obj\Debug\Get largest number.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Get largest number\bin\Debug\Get largest number.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Get largest number\obj\Debug\Get largest number.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\Get largest number\obj\Debug\Get largest number.pdb

@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.pdb

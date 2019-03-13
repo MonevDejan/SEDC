@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Prime Check\bin\Debug\Prime Check.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Prime Check\bin\Debug\Prime Check.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Prime Check\bin\Debug\Prime Check.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Prime Check\obj\Debug\Prime Check.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Prime Check\obj\Debug\Prime Check.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Prime Check\obj\Debug\Prime Check.pdb

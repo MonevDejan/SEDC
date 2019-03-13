@@ -32,31 +32,61 @@ namespace StudentGroup
             }
             
         }
+
+        static bool RunProgramAgain()
+        {
+            bool check;
+            string input = Console.ReadLine();
+
+            if (input == "Y" || input == "y")
+            {
+                check = true;
+            }
+            else if (input == "N" || input == "n")
+            {
+                check = false;
+            }
+            else
+            {
+                Console.WriteLine("Please enter Y or N");
+                check = RunProgramAgain();
+            }
+            return check;
+        }
+
         static void Main()
         {
-
             string[] studentsG1 = { "Zdravko", "Petko", "Stanko", "Branko", "Trajko" };
             string[] studentsG2 = { "Zdravko 2", "Petko 2", "Stanko 2", "Branko 2", "Trajko 2" };
 
-            Console.WriteLine("Enter student group: (chose 1 or 2 ) ");
-            string group = Console.ReadLine();
+            bool RunProgram = true;
 
-            switch (group)
+            do
             {
-                case "1":
-                    Console.WriteLine("The Students in G1 are:");
-                    PrintArray(studentsG1);
-                    break;
-                case "2":
-                    Console.WriteLine("The Students in G2 are:");
-                    PrintArray(studentsG2);
-                    break;
-                default:
-                    Console.WriteLine("Please chose from 1 or 2");
-                    break;
-            }
-            Console.WriteLine("");
-            Main();
+                Console.WriteLine("Enter student group: (chose 1 or 2 ) ");
+                string group = Console.ReadLine();
+
+                switch (group)
+                {
+                    case "1":
+                        Console.WriteLine("The Students in G1 are:");
+                        PrintArray(studentsG1);
+                        break;
+                    case "2":
+                        Console.WriteLine("The Students in G2 are:");
+                        PrintArray(studentsG2);
+                        break;
+                    default:
+                        Console.WriteLine("Please chose from 1 or 2");
+                        break;
+                }
+                Console.WriteLine("__________________________________________________________________");
+                Console.Write("Do you want to calculate another age Y / N ? ");
+                RunProgram = RunProgramAgain();
+
+            } while (RunProgram);
+          
+            
 
         }
 

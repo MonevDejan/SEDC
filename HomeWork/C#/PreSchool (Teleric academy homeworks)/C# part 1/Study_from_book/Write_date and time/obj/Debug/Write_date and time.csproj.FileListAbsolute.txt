@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Write_date and time\bin\Debug\Write_date and time.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Write_date and time\bin\Debug\Write_date and time.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Write_date and time\bin\Debug\Write_date and time.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Write_date and time\obj\Debug\Write_date and time.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Write_date and time\obj\Debug\Write_date and time.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Write_date and time\obj\Debug\Write_date and time.csprojResolveAssemblyReference.cache

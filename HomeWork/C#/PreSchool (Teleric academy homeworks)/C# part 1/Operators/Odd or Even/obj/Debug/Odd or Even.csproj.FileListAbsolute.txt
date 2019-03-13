@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Odd or Even\bin\Debug\Odd or Even.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Odd or Even\bin\Debug\Odd or Even.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Odd or Even\bin\Debug\Odd or Even.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Odd or Even\obj\Debug\Odd or Even.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Odd or Even\obj\Debug\Odd or Even.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Odd or Even\obj\Debug\Odd or Even.pdb

@@ -1,6 +1,0 @@
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Not devisibe numbers\bin\Debug\Not devisibe numbers.exe.config
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Not devisibe numbers\bin\Debug\Not devisibe numbers.exe
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Not devisibe numbers\bin\Debug\Not devisibe numbers.pdb
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Not devisibe numbers\obj\Debug\Not devisibe numbers.csprojResolveAssemblyReference.cache
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Not devisibe numbers\obj\Debug\Not devisibe numbers.exe
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Not devisibe numbers\obj\Debug\Not devisibe numbers.pdb

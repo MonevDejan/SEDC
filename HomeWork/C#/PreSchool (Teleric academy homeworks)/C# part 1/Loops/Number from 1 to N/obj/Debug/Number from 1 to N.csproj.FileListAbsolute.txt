@@ -1,8 +1,0 @@
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Number from 1 to N\bin\Debug\Number from 1 to N.exe.config
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Number from 1 to N\bin\Debug\Number from 1 to N.exe
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Number from 1 to N\bin\Debug\Number from 1 to N.pdb
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Number from 1 to N\obj\Debug\Number from 1 to N.exe
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Number from 1 to N\obj\Debug\Number from 1 to N.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 1\Loops\Number from 1 to N\bin\Debug\Number from 1 to N.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 1\Loops\Number from 1 to N\obj\Debug\Number from 1 to N.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 1\Loops\Number from 1 to N\obj\Debug\Number from 1 to N.pdb

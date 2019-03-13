@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace StaticFunctions
+{
+
+    public class Class1
+    {
+        static bool RunProgramAgain()
+        {
+            bool check;
+            string input = Console.ReadLine();
+
+            if (input == "Y" || input == "y")
+            {
+                check = true;
+            }
+            else if (input == "N" || input == "n")
+            {
+                check = false;
+            }
+            else
+            {
+                Console.WriteLine("Please enter Y or N");
+                check = RunProgramAgain();
+            }
+            return check;
+        }
+
+        public Class1()
+        {
+        }
+    }
+}

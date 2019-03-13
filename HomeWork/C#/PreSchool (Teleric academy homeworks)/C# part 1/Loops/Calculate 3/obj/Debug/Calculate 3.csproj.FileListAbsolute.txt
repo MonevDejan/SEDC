@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate 3\bin\Debug\Calculate 3.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate 3\bin\Debug\Calculate 3.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate 3\bin\Debug\Calculate 3.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate 3\obj\Debug\Calculate 3.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate 3\obj\Debug\Calculate 3.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate 3\obj\Debug\Calculate 3.pdb

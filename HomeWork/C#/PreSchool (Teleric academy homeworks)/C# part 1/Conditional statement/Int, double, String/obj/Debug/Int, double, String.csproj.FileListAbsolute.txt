@@ -1,5 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Int, double, String\bin\Debug\Int, double, String.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Int, double, String\bin\Debug\Int, double, String.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Int, double, String\bin\Debug\Int, double, String.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Int, double, String\obj\Debug\Int, double, String.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Int, double, String\obj\Debug\Int, double, String.pdb

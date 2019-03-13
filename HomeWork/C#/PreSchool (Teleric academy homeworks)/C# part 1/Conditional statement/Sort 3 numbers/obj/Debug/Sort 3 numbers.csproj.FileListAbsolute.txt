@@ -1,5 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Sort 3 numbers\bin\Debug\Sort 3 numbers.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Sort 3 numbers\bin\Debug\Sort 3 numbers.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Sort 3 numbers\bin\Debug\Sort 3 numbers.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Sort 3 numbers\obj\Debug\Sort 3 numbers.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Sort 3 numbers\obj\Debug\Sort 3 numbers.pdb

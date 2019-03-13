@@ -1,5 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Devided by 7 and 5\bin\Debug\Devided by 7 and 5.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Devided by 7 and 5\bin\Debug\Devided by 7 and 5.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Devided by 7 and 5\bin\Debug\Devided by 7 and 5.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Devided by 7 and 5\obj\Debug\Devided by 7 and 5.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Devided by 7 and 5\obj\Debug\Devided by 7 and 5.pdb

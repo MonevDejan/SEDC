@@ -1,5 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate!\bin\Debug\Calculate!.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate!\bin\Debug\Calculate!.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate!\bin\Debug\Calculate!.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate!\obj\Debug\Calculate!.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate!\obj\Debug\Calculate!.pdb

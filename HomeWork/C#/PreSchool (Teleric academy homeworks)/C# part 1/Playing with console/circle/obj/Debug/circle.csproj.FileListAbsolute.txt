@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\circle\bin\Debug\circle.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\circle\bin\Debug\circle.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\circle\bin\Debug\circle.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\circle\obj\Debug\circle.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\circle\obj\Debug\circle.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\circle\obj\Debug\circle.pdb

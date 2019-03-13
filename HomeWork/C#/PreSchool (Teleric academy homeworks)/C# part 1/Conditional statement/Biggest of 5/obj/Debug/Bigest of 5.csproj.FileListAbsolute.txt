@@ -1,5 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Biggest of 5\bin\Debug\Biggest of 5.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Biggest of 5\bin\Debug\Biggest of 5.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Biggest of 5\bin\Debug\Biggest of 5.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Biggest of 5\obj\Debug\Biggest of 5.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Conditional statement\Biggest of 5\obj\Debug\Biggest of 5.pdb

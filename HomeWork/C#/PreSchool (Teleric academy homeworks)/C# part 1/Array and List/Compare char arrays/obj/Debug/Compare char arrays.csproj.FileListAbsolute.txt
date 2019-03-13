@@ -1,1 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Compare char arrays\bin\Debug\Compare char arrays.exe.config

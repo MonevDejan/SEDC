@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to Hex\bin\Debug\Decimal to Hex.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to Hex\obj\Debug\Decimal to Hex.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to Hex\bin\Debug\Decimal to Hex.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to Hex\bin\Debug\Decimal to Hex.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to Hex\obj\Debug\Decimal to Hex.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Decimal to Hex\obj\Debug\Decimal to Hex.pdb

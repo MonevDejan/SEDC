@@ -1,9 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\English digit\bin\Debug\English digit.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\English digit\bin\Debug\English digit.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\English digit\bin\Debug\English digit.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\English digit\obj\Debug\English digit.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\English digit\obj\Debug\English digit.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Say Hello, name\English digit\obj\Debug\English digit.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\English digit\bin\Debug\English digit.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\English digit\obj\Debug\English digit.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\C# part 2\Methods\English digit\obj\Debug\English digit.pdb

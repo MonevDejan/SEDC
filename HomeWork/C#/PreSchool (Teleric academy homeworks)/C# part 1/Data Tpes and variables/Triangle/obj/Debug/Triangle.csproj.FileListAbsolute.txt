@@ -1,9 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Triangle\bin\Debug\Triangle.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Triangle\bin\Debug\Triangle.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Triangle\bin\Debug\Triangle.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Triangle\obj\Debug\Triangle.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Triangle\obj\Debug\Triangle.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Triangle\bin\Debug\Triangle.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Triangle\obj\Debug\Triangle.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Triangle\obj\Debug\Triangle.pdb

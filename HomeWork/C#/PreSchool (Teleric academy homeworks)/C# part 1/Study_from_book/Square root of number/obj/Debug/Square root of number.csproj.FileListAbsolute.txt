@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Square root of number\bin\Debug\Square root of number.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Square root of number\bin\Debug\Square root of number.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Square root of number\bin\Debug\Square root of number.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Square root of number\obj\Debug\Square root of number.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Square root of number\obj\Debug\Square root of number.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Study_from_book\Square root of number\obj\Debug\Square root of number.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Rectangles\bin\Debug\Rectangles.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Rectangles\bin\Debug\Rectangles.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Rectangles\bin\Debug\Rectangles.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Rectangles\obj\Debug\Rectangles.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Rectangles\obj\Debug\Rectangles.pdb

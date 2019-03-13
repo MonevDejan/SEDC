@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\Users\bin\Debug\Users.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\Users\bin\Debug\Users.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\Users\bin\Debug\Users.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\Users\obj\Debug\Users.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\Users\obj\Debug\Users.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\Users\obj\Debug\Users.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_05 (Workshop_Exercise)\Users\obj\Debug\Users.pdb

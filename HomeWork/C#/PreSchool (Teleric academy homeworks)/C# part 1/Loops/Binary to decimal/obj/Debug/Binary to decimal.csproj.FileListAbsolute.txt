@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Binary to decimal\bin\Debug\Binary to decimal.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Binary to decimal\bin\Debug\Binary to decimal.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Binary to decimal\bin\Debug\Binary to decimal.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Binary to decimal\obj\Debug\Binary to decimal.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Binary to decimal\obj\Debug\Binary to decimal.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Binary to decimal\obj\Debug\Binary to decimal.pdb

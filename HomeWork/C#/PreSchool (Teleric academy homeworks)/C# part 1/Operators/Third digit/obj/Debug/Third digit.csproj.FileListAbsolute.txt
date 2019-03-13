@@ -1,5 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Third digit\bin\Debug\Third digit.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Third digit\bin\Debug\Third digit.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Third digit\bin\Debug\Third digit.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Third digit\obj\Debug\Third digit.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Operators\Third digit\obj\Debug\Third digit.pdb

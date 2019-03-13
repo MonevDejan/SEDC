@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate again\bin\Debug\Calculate again.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate again\bin\Debug\Calculate again.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate again\bin\Debug\Calculate again.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate again\obj\Debug\Calculate again.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate again\obj\Debug\Calculate again.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Calculate again\obj\Debug\Calculate again.pdb

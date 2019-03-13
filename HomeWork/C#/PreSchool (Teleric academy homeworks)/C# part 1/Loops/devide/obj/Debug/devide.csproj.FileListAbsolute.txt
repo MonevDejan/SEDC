@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\devide\bin\Debug\devide.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\devide\bin\Debug\devide.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\devide\bin\Debug\devide.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\devide\obj\Debug\devide.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\devide\obj\Debug\devide.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\devide\obj\Debug\devide.pdb

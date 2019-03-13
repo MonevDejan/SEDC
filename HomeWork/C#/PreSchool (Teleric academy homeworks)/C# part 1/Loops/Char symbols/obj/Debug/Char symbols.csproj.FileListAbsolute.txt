@@ -1,5 +1,0 @@
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Char symbols\bin\Debug\Char symbols.exe.config
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Char symbols\bin\Debug\Char symbols.exe
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Char symbols\bin\Debug\Char symbols.pdb
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Char symbols\obj\Debug\Char symbols.exe
-c:\Users\auro\documents\visual studio 2015\Projects\Loops\Char symbols\obj\Debug\Char symbols.pdb

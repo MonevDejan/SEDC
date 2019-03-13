@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Odd and Even Product\bin\Debug\Odd and Even Product.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Odd and Even Product\bin\Debug\Odd and Even Product.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Odd and Even Product\bin\Debug\Odd and Even Product.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Odd and Even Product\obj\Debug\Odd and Even Product.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Odd and Even Product\obj\Debug\Odd and Even Product.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Loops\Odd and Even Product\obj\Debug\Odd and Even Product.pdb

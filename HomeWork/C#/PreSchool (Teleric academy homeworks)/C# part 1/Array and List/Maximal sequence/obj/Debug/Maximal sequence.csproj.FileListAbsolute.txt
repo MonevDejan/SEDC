@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Maximal sequence\bin\Debug\Maximal sequence.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Maximal sequence\bin\Debug\Maximal sequence.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Maximal sequence\bin\Debug\Maximal sequence.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Maximal sequence\obj\Debug\Maximal sequence.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Maximal sequence\obj\Debug\Maximal sequence.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Array and List\Maximal sequence\obj\Debug\Maximal sequence.pdb

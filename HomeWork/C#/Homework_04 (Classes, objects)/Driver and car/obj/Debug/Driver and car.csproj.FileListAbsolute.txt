@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_04 (Classes, objects)\Driver and car\bin\Debug\Driver and car.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_04 (Classes, objects)\Driver and car\bin\Debug\Driver and car.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_04 (Classes, objects)\Driver and car\bin\Debug\Driver and car.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_04 (Classes, objects)\Driver and car\obj\Debug\Driver and car.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_04 (Classes, objects)\Driver and car\obj\Debug\Driver and car.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_04 (Classes, objects)\Driver and car\obj\Debug\Driver and car.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_04 (Classes, objects)\Driver and car\obj\Debug\Driver and car.pdb

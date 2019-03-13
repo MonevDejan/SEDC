@@ -1,6 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Company info\bin\Debug\Company info.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Company info\bin\Debug\Company info.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Company info\bin\Debug\Company info.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Company info\obj\Debug\Company info.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Company info\obj\Debug\Company info.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Playing with console\Company info\obj\Debug\Company info.csprojResolveAssemblyReference.cache

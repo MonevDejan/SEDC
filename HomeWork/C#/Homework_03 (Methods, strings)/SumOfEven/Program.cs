@@ -68,15 +68,44 @@ namespace SumOfEven
             return sum;
         }
 
+        static bool RunProgramAgain()
+        {
+            bool check;
+            string input = Console.ReadLine();
+
+            if (input == "Y" || input == "y")
+            {
+                check = true;
+            }
+            else if (input == "N" || input == "n")
+            {
+                check = false;
+            }
+            else
+            {
+                Console.WriteLine("Please enter Y or N");
+                check = RunProgramAgain();
+            }
+            return check;
+        }
+
         static void Main()
         {
-            Console.Write("Please enter how many numbers will be in the array. N = ");
-            int lenghtOfArray = StringToInt();
-            int[] arrayToSum = ReadNumbers(lenghtOfArray);
+            bool RunProgram = true;
 
-            Console.WriteLine($"The sum of even numbers in the array is {SumOfEven(arrayToSum)}");
-            Console.WriteLine("");
-            Main();
+            do
+            {
+
+                Console.Write("Please enter how many numbers will be in the array. N = ");
+                int lenghtOfArray = StringToInt();
+                int[] arrayToSum = ReadNumbers(lenghtOfArray);
+
+                Console.WriteLine($"The sum of even numbers in the array is {SumOfEven(arrayToSum)}");
+                Console.WriteLine("__________________________________________________________________");
+                Console.Write("Do you want to calculate another age Y / N ? ");
+                RunProgram = RunProgramAgain();
+            } while (RunProgram);
+
         }
     }
 }

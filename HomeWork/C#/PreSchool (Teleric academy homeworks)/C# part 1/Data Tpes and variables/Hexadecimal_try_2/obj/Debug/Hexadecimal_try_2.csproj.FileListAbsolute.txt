@@ -1,9 +1,0 @@
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal_try_2\bin\Debug\Hexadecimal_try_2.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal_try_2\bin\Debug\Hexadecimal_try_2.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal_try_2\bin\Debug\Hexadecimal_try_2.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal_try_2\obj\Debug\Hexadecimal_try_2.csprojResolveAssemblyReference.cache
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal_try_2\obj\Debug\Hexadecimal_try_2.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Solution1\Hexadecimal_try_2\obj\Debug\Hexadecimal_try_2.pdb
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Hexadecimal_try_2\bin\Debug\Hexadecimal_try_2.exe.config
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Hexadecimal_try_2\obj\Debug\Hexadecimal_try_2.exe
-C:\Users\auro\Documents\Visual Studio 2015\Projects\Data Tpes and variables\Hexadecimal_try_2\obj\Debug\Hexadecimal_try_2.pdb
