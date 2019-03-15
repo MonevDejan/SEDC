@@ -1,0 +1,6 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_06 (Inheritance)\ClassLibrary.Inheritance\bin\Debug\ClassLibrary.Inheritance.dll
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_06 (Inheritance)\ClassLibrary.Inheritance\bin\Debug\ClassLibrary.Inheritance.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_06 (Inheritance)\ClassLibrary.Inheritance\obj\Debug\ClassLibrary.Inheritance.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_06 (Inheritance)\ClassLibrary.Inheritance\obj\Debug\ClassLibrary.Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_06 (Inheritance)\ClassLibrary.Inheritance\obj\Debug\ClassLibrary.Inheritance.dll
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_06 (Inheritance)\ClassLibrary.Inheritance\obj\Debug\ClassLibrary.Inheritance.pdb
