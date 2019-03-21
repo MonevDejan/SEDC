@@ -1,0 +1,20 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\FavoriteSongs\bin\Debug\FavoriteSongs.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\FavoriteSongs\bin\Debug\FavoriteSongs.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\FavoriteSongs\bin\Debug\FavoriteSongs.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\FavoriteSongs\bin\Debug\SongsClass.dll
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\FavoriteSongs\bin\Debug\SongsClass.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\FavoriteSongs\obj\Debug\FavoriteSongs.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\FavoriteSongs\obj\Debug\FavoriteSongs.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\FavoriteSongs\obj\Debug\FavoriteSongs.csproj.CopyComplete
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\FavoriteSongs\obj\Debug\FavoriteSongs.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\FavoriteSongs\obj\Debug\FavoriteSongs.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\FavoriteSongs\obj\Debug\FavoriteSongs.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\FavoriteSongs\obj\Debug\FavoriteSongs.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\FavoriteSongs\obj\Debug\FavoriteSongs.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\FavoriteSongs\obj\Debug\FavoriteSongs.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\FavoriteSongs\bin\Debug\FavoriteSongs.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\FavoriteSongs\bin\Debug\FavoriteSongs.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\FavoriteSongs\bin\Debug\FavoriteSongs.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\FavoriteSongs\bin\Debug\SongsClass.dll
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\FavoriteSongs\bin\Debug\SongsClass.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\FavoriteSongs\obj\Debug\FavoriteSongs.csproj.CopyComplete

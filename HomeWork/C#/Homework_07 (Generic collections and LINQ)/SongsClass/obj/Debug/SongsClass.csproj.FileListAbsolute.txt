@@ -1,0 +1,12 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\SongsClass\bin\Debug\SongsClass.dll
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\SongsClass\bin\Debug\SongsClass.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\SongsClass\obj\Debug\SongsClass.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\SongsClass\obj\Debug\SongsClass.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\SongsClass\obj\Debug\SongsClass.dll
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections)\SongsClass\obj\Debug\SongsClass.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\SongsClass\obj\Debug\SongsClass.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\SongsClass\obj\Debug\SongsClass.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\SongsClass\obj\Debug\SongsClass.dll
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\SongsClass\obj\Debug\SongsClass.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\SongsClass\bin\Debug\SongsClass.dll
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homewrok_07 (Generic collections and LINQ)\SongsClass\bin\Debug\SongsClass.pdb
