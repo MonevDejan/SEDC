@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DF762924-1E4B-4CFD-8420-798DCDB07AFD}</ProjectGuid>
+    <ProjectGuid>{81337C47-CD73-4090-B5D4-27126701071E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AcademyManagement</RootNamespace>
-    <AssemblyName>AcademyManagement</AssemblyName>
+    <RootNamespace>CinemaAndMovies</RootNamespace>
+    <AssemblyName>CinemaAndMovies</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Homework_09 %28Workshop_Exercise%29\ClassLibrary\ClassLibrary.csproj">
-      <Project>{69d76ace-89b3-4663-aa22-879a558164ed}</Project>
-      <Name>ClassLibrary</Name>
+    <ProjectReference Include="..\ClassLibraryCinemaAndMovies\ClassLibraryCinemaAndMovies.csproj">
+      <Project>{473c71f3-9875-4a20-bd7c-2b1c0f71046f}</Project>
+      <Name>ClassLibraryCinemaAndMovies</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -8,3 +8,7 @@ C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\AcademyManagement\obj\Debug\Acade
 C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\AcademyManagement\obj\Debug\AcademyManagement.csproj.CopyComplete
 C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\AcademyManagement\obj\Debug\AcademyManagement.exe
 C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\AcademyManagement\obj\Debug\AcademyManagement.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\obj\Debug\AcademyManagement.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\obj\Debug\AcademyManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\obj\Debug\AcademyManagement.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\obj\Debug\AcademyManagement.pdb

@@ -1,0 +1,20 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\CinemaAndMovies\obj\Debug\CinemaAndMovies.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\CinemaAndMovies\obj\Debug\CinemaAndMovies.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\CinemaAndMovies\bin\Debug\CinemaAndMovies.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\CinemaAndMovies\bin\Debug\CinemaAndMovies.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\CinemaAndMovies\bin\Debug\CinemaAndMovies.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\CinemaAndMovies\bin\Debug\ClassLibraryCinemaAndMovies.dll
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\CinemaAndMovies\bin\Debug\ClassLibraryCinemaAndMovies.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\CinemaAndMovies\obj\Debug\CinemaAndMovies.csproj.CopyComplete
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\CinemaAndMovies\obj\Debug\CinemaAndMovies.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\CinemaAndMovies\obj\Debug\CinemaAndMovies.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_08 (Exceptions)\CinemaAndMovies\bin\Debug\CinemaAndMovies.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_08 (Exceptions)\CinemaAndMovies\bin\Debug\CinemaAndMovies.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_08 (Exceptions)\CinemaAndMovies\bin\Debug\CinemaAndMovies.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_08 (Exceptions)\CinemaAndMovies\bin\Debug\ClassLibraryCinemaAndMovies.dll
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_08 (Exceptions)\CinemaAndMovies\bin\Debug\ClassLibraryCinemaAndMovies.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_08 (Exceptions)\CinemaAndMovies\obj\Debug\CinemaAndMovies.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_08 (Exceptions)\CinemaAndMovies\obj\Debug\CinemaAndMovies.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_08 (Exceptions)\CinemaAndMovies\obj\Debug\CinemaAndMovies.csproj.CopyComplete
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_08 (Exceptions)\CinemaAndMovies\obj\Debug\CinemaAndMovies.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_08 (Exceptions)\CinemaAndMovies\obj\Debug\CinemaAndMovies.pdb
