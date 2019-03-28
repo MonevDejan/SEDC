@@ -11,18 +11,30 @@ namespace ClassLibrary.Database
 {
     public class EditDatabase
     {
-        public Subject SubjectName(List<Subject> subjects, ClassSubject nameOfSubject)
+        public void UserStudent(ListOfUsers users, string username, string pasword, string enrolSubject, ListOfSubjects subjects )
         {
-            Subject foundSubject = null;
-
-            foreach (var subject in subjects)
+            foreach (var student in users.AllStudents)
             {
-                if (subject.Name == nameOfSubject)
+                if ((student.UserName == username) && (student.Password == pasword))
                 {
-                    foundSubject = subject;
+
+                    student.CurrentSubject = enrolSubject;
+                    student.EnroledSubjects.Add(enrolSubject, 0);
+                    Console.WriteLine($"Studetn {student.FirstName} {student.LastName} has enroled in {enrolSubject}");
+
+                    // To add student to the class attendance
+                    ClassSubject chosenSubject = (ClassSubject)System.Enum.Parse(typeof(ClassSubject), enrolSubject);
+                    foreach (var subjectToListen in subjects.AllSubjects)
+                    {
+                        if (chosenSubject == subjectToListen.Name)
+                        {
+                            subjectToListen.Attendence.Add($"{student.FirstName} {student.LastName}");
+                        }
+
+                    }
+
                 }
             }
-            return foundSubject;
         }
     }
 }

@@ -33,9 +33,9 @@ namespace ClassLibrary.Database
 
             AllStudents = new List<Student>()
             {
-                new Student("Student1", "Learner1", "Kloshar1","7777"),
-                new Student("Student2", "Learner2", "Kloshar2","8888"),
-                new Student("Student3", "Learner3", "Kloshar3",""),
+                new Student("Student1", "Learner1", "Newbie1","7777"),
+                new Student("Student2", "Learner2", "Newbie2","8888"),
+                new Student("Student3", "Learner3", "Newbie3","9999"),
             };
 
         }

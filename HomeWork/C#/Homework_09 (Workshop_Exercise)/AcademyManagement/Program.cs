@@ -11,8 +11,8 @@ using ClassLibrary.Services;
 
 namespace AcademyManagement
 {
-    //Task
-    #region
+    
+    #region Task
 
     /*
         The app will have users that can login and perform some actions. The user can choose one of the 3 roles and login:
@@ -34,7 +34,7 @@ namespace AcademyManagement
         Try and handle all scenarios with exception handling. Handle expected exceptions with special messages.
 
      */
-    #endregion
+    #endregion 
 
     class Program
     {
@@ -43,7 +43,7 @@ namespace AcademyManagement
             PrintConsole print = new PrintConsole();
             Validate validate = new Validate();
             ListOfUsers usersList = new ListOfUsers();
-            Find find = new Find();
+            EditDatabase edit = new EditDatabase();
             ListOfSubjects subjects = new ListOfSubjects();
 
             Console.WriteLine("Please chose user to log in:");
@@ -52,44 +52,65 @@ namespace AcademyManagement
 
             switch (chosenUser)
             {
-                case "1":
-                   
+                case "1": // Admin
+                    Console.WriteLine("Option Admin");
 
                     break;
 
-                case "2":
-                    Console.WriteLine("option 2");
-                    
-                    break;
+                case "2": // Trainer
 
-                case "3":
-                    
                     Console.WriteLine("Please enter your Username");
-                    string username = validate.UserName(usersList.AllStudents);
+                    string usernameTrainer = validate.UserName(usersList.AllTrainers);
 
                     Console.WriteLine("Please enter your Password");
-                    string pasword = validate.Password(usersList.AllStudents, username);
+                    string paswordTrainer = validate.Password(usersList.AllTrainers, usernameTrainer);
 
-                    Student logedInStudent = find.Person(usersList.AllStudents, username, pasword);
+                    print.TrainerOptions();
+                    string trainertOption = validate.Option1or2();
+
+                    switch (trainertOption)
+                    {
+                        case "1": // All Students
+
+                            Console.WriteLine("Please chose from the following student");
+                            print.Users(usersList.AllStudents);
+
+                            string studentFullName = validate.StudentFullName(usersList.AllStudents);
+
+                            break;
+
+                        case "2": // All subjects
+
+                            break;
+                    }
+                    break;
+
+                case "3": //Student
+                    
+                    Console.WriteLine("Please enter your Username");
+                    string usernameStudent = validate.UserName(usersList.AllStudents);
+
+                    Console.WriteLine("Please enter your Password");
+                    string paswordStudent = validate.Password(usersList.AllStudents, usernameStudent);
 
                     print.StudentOptions();
                     string studentOption = validate.Option1or2();
 
                     switch (studentOption)
                     {
-                        case "1":
+                        case "1": // Enrol
+
                             Console.WriteLine("Please chose from the following subjects");
                             print.SubjectAndAttendance(subjects.AllSubjects);
+
                             string inputSubject = validate.Subject();
 
-                            ClassSubject chosenSubject = (ClassSubject)Enum.Parse(typeof(ClassSubject), inputSubject);
-
-                            
-
+                            edit.UserStudent(usersList, usernameStudent, paswordStudent, inputSubject, subjects);
 
                             break;
-                        case "2":
-                            Console.WriteLine("option 2");
+                        case "2": //Show Grades
+
+                            print.StudentSubjectAndGrades(usersList, usernameStudent, paswordStudent);
 
                             break;
                     }

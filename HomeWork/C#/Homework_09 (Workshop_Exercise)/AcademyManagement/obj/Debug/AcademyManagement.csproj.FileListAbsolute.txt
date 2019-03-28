@@ -12,3 +12,9 @@ C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\A
 C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\obj\Debug\AcademyManagement.csproj.CoreCompileInputs.cache
 C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\obj\Debug\AcademyManagement.exe
 C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\obj\Debug\AcademyManagement.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\bin\Debug\AcademyManagement.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\bin\Debug\AcademyManagement.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\bin\Debug\AcademyManagement.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\bin\Debug\ClassLibrary.dll
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\bin\Debug\ClassLibrary.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C#\Homework_09 (Workshop_Exercise)\AcademyManagement\obj\Debug\AcademyManagement.csproj.CopyComplete

@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using ClassLibrary.Class;
+using ClassLibrary.Database;
 
 namespace ClassLibrary.Services
 {
@@ -25,19 +26,11 @@ namespace ClassLibrary.Services
             }
         }
 
-        public void Users(List<User> userList)
+        public void Users<T>(List<T> userList) where T:User
         {
             foreach (var user in userList)
             {
                 Console.WriteLine($"{user.FirstName} {user.LastName}");
-            }
-        }
-
-        public void SubjectAndGrades(Dictionary<string, int> subjectAndGrades)
-        {
-            foreach (var pair in subjectAndGrades)
-            {
-                Console.WriteLine("{0} : {1}", pair.Key, pair.Value);
             }
         }
 
@@ -46,6 +39,28 @@ namespace ClassLibrary.Services
             Console.WriteLine("Please chose what do you want to do");
             Console.WriteLine("1. Enrol new subject");
             Console.WriteLine("2. Show grades");
+        }
+
+        public void StudentSubjectAndGrades (ListOfUsers users, string username, string pasword)
+        {
+            foreach (var student in users.AllStudents)
+            {
+                if ((student.UserName == username) && (student.Password == pasword))
+                {
+                    foreach (var pair in student.EnroledSubjects)
+                    {
+                        Console.WriteLine("{0} : {1}", pair.Key, pair.Value);
+                    }
+
+                }
+            }
+        }
+
+        public void TrainerOptions()
+        {
+            Console.WriteLine("Please chose what do you want to do");
+            Console.WriteLine("1. Show all student");
+            Console.WriteLine("2. Show all subjects");
         }
     }
 }

@@ -42,7 +42,7 @@ namespace ClassLibrary.Services
             }
         }
 
-        public string UserName(List<User> users)
+        public string UserName<T>(List<T> users) where T : User
         {
             string input = Console.ReadLine();
 
@@ -72,7 +72,7 @@ namespace ClassLibrary.Services
             }
         }
 
-        public string Password(List<User> users, string userName)
+        public string Password<T>(List<T> users, string userName) where T : User
         {
             string input = Console.ReadLine();
 
@@ -97,18 +97,18 @@ namespace ClassLibrary.Services
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
-                input = UserName(users);
+                input = Password(users, userName);
                 return input;
             }
-            
+
         }
 
         public string Subject()
         {
             string input = Console.ReadLine();
-            bool IsSubject = ((input != "Algebra") && (input != "Geometry") && (input != "Biology")
-                             && (input != "Physics") && (input != "Science") && (input != "Geography")
-                             && (input != "History") && (input != "Music"));
+            bool IsSubject = ((input == "Algebra") || (input == "Geometry") || (input == "Biology")
+                             || (input == "Physics") || (input == "Science") || (input == "Geography")
+                             || (input == "History") || (input == "Music"));
 
             try
             {
@@ -122,6 +122,38 @@ namespace ClassLibrary.Services
             {
                 Console.WriteLine(ex.Message);
                 input = Subject();
+                return input;
+            }
+        }
+
+        public string StudentFullName (List<Student> allStudents)
+        {
+            string input = Console.ReadLine();
+
+            bool IsfullName = false;
+
+            foreach (var student in allStudents)
+            {
+                string fullStudentName = $"{student.FirstName} {student.LastName}";
+
+                if (fullStudentName == input)
+                {
+                    IsfullName = true;
+                }
+            }
+
+            try
+            {
+                if (!IsfullName)
+                {
+                    throw new Exception("There is not student with that fullname. Please chose from the results above");
+                }
+                return input;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                input = StudentFullName(allStudents);
                 return input;
             }
         }

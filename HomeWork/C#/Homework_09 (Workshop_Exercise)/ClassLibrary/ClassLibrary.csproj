@@ -52,7 +52,6 @@
     <Compile Include="Enum\ClassSubject.cs" />
     <Compile Include="Enum\Role.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services\Find.cs" />
     <Compile Include="Services\PrintConsole.cs" />
     <Compile Include="Services\Validate.cs" />
   </ItemGroup>
