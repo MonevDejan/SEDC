@@ -17,7 +17,7 @@ namespace ClassLibrary.Services
             Console.WriteLine("2. Trainer");
             Console.WriteLine("3. Student");
         }
-        
+
         public void SubjectAndAttendance(List<Subject> allSubjects)
         {
             foreach (Subject subject in allSubjects)
@@ -41,7 +41,7 @@ namespace ClassLibrary.Services
             Console.WriteLine("2. Show grades");
         }
 
-        public void StudentSubjectAndGrades (ListOfUsers users, string username, string pasword)
+        public void StudentSubjectAndGrades(ListOfUsers users, string username, string pasword)
         {
             foreach (var student in users.AllStudents)
             {
@@ -56,11 +56,34 @@ namespace ClassLibrary.Services
             }
         }
 
+        public void StudentSubjectAndGrades(Student student)
+        {
+            foreach (var pair in student.EnroledSubjects)
+            {
+                Console.WriteLine("{0} : {1}", pair.Key, pair.Value);
+            }
+        }
+        
         public void TrainerOptions()
         {
             Console.WriteLine("Please chose what do you want to do");
             Console.WriteLine("1. Show all student");
             Console.WriteLine("2. Show all subjects");
+        }
+
+        public void AdminOptions()
+        {
+            Console.WriteLine("Please chose what do you want to do");
+            Console.WriteLine("1. Add User");
+            Console.WriteLine("2. Remove User");
+
+        }
+
+        public void AddRemoveUser()
+        {
+            Console.WriteLine("1. Student");
+            Console.WriteLine("2. Trainer");
+            Console.WriteLine("3. Trainer");
         }
     }
 }

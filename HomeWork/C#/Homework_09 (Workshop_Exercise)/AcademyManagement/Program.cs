@@ -11,8 +11,8 @@ using ClassLibrary.Services;
 
 namespace AcademyManagement
 {
-    
-    #region Task
+
+    #region Task 
 
     /*
         The app will have users that can login and perform some actions. The user can choose one of the 3 roles and login:
@@ -34,7 +34,7 @@ namespace AcademyManagement
         Try and handle all scenarios with exception handling. Handle expected exceptions with special messages.
 
      */
-    #endregion 
+    #endregion
 
     class Program
     {
@@ -45,79 +45,180 @@ namespace AcademyManagement
             ListOfUsers usersList = new ListOfUsers();
             EditDatabase edit = new EditDatabase();
             ListOfSubjects subjects = new ListOfSubjects();
+            StartAgain start = new StartAgain();
 
-            Console.WriteLine("Please chose user to log in:");
-            print.Choices();
-            string chosenUser = validate.Option1to3();
+            bool RunProgram = true;
 
-            switch (chosenUser)
+            do
             {
-                case "1": // Admin
-                    Console.WriteLine("Option Admin");
+                Console.WriteLine("Please chose user to log in:");
+                print.Choices();
+                string chosenUser = validate.Option1to3();
 
-                    break;
+                switch (chosenUser)
+                {
+                    #region Admin
+                    case "1": // Admin
 
-                case "2": // Trainer
+                        Console.WriteLine("Please enter your Username");
+                        string usernameAdmin = validate.UserName(usersList.AllAdmins);
 
-                    Console.WriteLine("Please enter your Username");
-                    string usernameTrainer = validate.UserName(usersList.AllTrainers);
+                        Console.WriteLine("Please enter your Password");
+                        string paswordAdmin = validate.Password(usersList.AllAdmins, usernameAdmin);
 
-                    Console.WriteLine("Please enter your Password");
-                    string paswordTrainer = validate.Password(usersList.AllTrainers, usernameTrainer);
+                        Admin logedInAdmin = null;
+                        foreach (Admin admin in usersList.AllAdmins)
+                        {
+                            if ((admin.UserName == usernameAdmin) && (admin.Password == paswordAdmin))
+                            {
+                                logedInAdmin = admin;
+                            }
+                        }
 
-                    print.TrainerOptions();
-                    string trainertOption = validate.Option1or2();
+                        print.AdminOptions();
+                        string adminOption = validate.Option1to3();
 
-                    switch (trainertOption)
-                    {
-                        case "1": // All Students
+                        switch (adminOption)
+                        {
+                            case "1": // Add User
 
-                            Console.WriteLine("Please chose from the following student");
-                            print.Users(usersList.AllStudents);
+                                Console.WriteLine("Please select wich type of user you want to add");
+                                print.AddRemoveUser();
 
-                            string studentFullName = validate.StudentFullName(usersList.AllStudents);
+                                string adminAddOptions = validate.Option1to3();
 
-                            break;
+                                switch (adminAddOptions)
+                                {
+                                    case "1": // Student
 
-                        case "2": // All subjects
+                                        logedInAdmin.AddNewUser(usersList, Role.Student);
 
-                            break;
-                    }
-                    break;
+                                        break;
+                                    case "2":  // Trainer
 
-                case "3": //Student
-                    
-                    Console.WriteLine("Please enter your Username");
-                    string usernameStudent = validate.UserName(usersList.AllStudents);
+                                        logedInAdmin.AddNewUser(usersList, Role.Trainer);
+                                        break;
 
-                    Console.WriteLine("Please enter your Password");
-                    string paswordStudent = validate.Password(usersList.AllStudents, usernameStudent);
+                                    case "3":  // Admin
 
-                    print.StudentOptions();
-                    string studentOption = validate.Option1or2();
+                                        logedInAdmin.AddNewUser(usersList, Role.Admin);
+                                        break;
+                                }
 
-                    switch (studentOption)
-                    {
-                        case "1": // Enrol
+                                break;
 
-                            Console.WriteLine("Please chose from the following subjects");
-                            print.SubjectAndAttendance(subjects.AllSubjects);
+                            case "2": // Remove User
 
-                            string inputSubject = validate.Subject();
 
-                            edit.UserStudent(usersList, usernameStudent, paswordStudent, inputSubject, subjects);
+                                Console.WriteLine("Please select wich type of user you want to Remove");
+                                print.AddRemoveUser();
 
-                            break;
-                        case "2": //Show Grades
+                                string adminRemoveOptions = validate.Option1to3();
 
-                            print.StudentSubjectAndGrades(usersList, usernameStudent, paswordStudent);
+                                switch (adminRemoveOptions)
+                                {
+                                    case "1": // Student
+                                        Console.WriteLine("Please insert full name of the student");
+                                        string studentFullname = Console.ReadLine();
 
-                            break;
-                    }
-                    break;
-            }
+                                        logedInAdmin.RemoveUser(usersList, Role.Student, studentFullname);
 
-            Console.ReadLine();
+                                        break;
+                                    case "2":  // Trainer
+                                        Console.WriteLine("Please insert full name of the trainer");
+                                        string trainerFullname = Console.ReadLine();
+
+                                        logedInAdmin.RemoveUser(usersList, Role.Student, trainerFullname);
+
+                                        break;
+
+                                    case "3":  // Admin
+                                        Console.WriteLine("Please insert full name of the admin");
+                                        string adminFullname = Console.ReadLine();
+
+                                        logedInAdmin.RemoveUser(usersList, Role.Student, adminFullname);
+
+                                        break;
+                                }
+
+                                break;
+                        }
+
+                        break;
+                    #endregion
+
+                    #region Trainer
+                    case "2": // Trainer
+
+                        Console.WriteLine("Please enter your Username");
+                        string usernameTrainer = validate.UserName(usersList.AllTrainers);
+
+                        Console.WriteLine("Please enter your Password");
+                        string paswordTrainer = validate.Password(usersList.AllTrainers, usernameTrainer);
+
+                        print.TrainerOptions();
+                        string trainertOption = validate.Option1or2();
+
+                        switch (trainertOption)
+                        {
+                            case "1": // All Students
+
+                                Console.WriteLine("Please chose from the following student");
+                                print.Users(usersList.AllStudents);
+
+                                Student chosenStudent = validate.StudentFullName(usersList.AllStudents);
+
+                                print.StudentSubjectAndGrades(chosenStudent);
+                                break;
+
+                            case "2": // All subjects
+
+                                print.SubjectAndAttendance(subjects.AllSubjects);
+                                break;
+                        }
+                        break;
+                    #endregion
+
+                    #region Student
+                    case "3": //Student
+
+                        Console.WriteLine("Please enter your Username");
+                        string usernameStudent = validate.UserName(usersList.AllStudents);
+
+                        Console.WriteLine("Please enter your Password");
+                        string paswordStudent = validate.Password(usersList.AllStudents, usernameStudent);
+
+                        print.StudentOptions();
+                        string studentOption = validate.Option1or2();
+
+                        switch (studentOption)
+                        {
+                            case "1": // Enrol
+
+                                Console.WriteLine("Please chose from the following subjects");
+                                print.SubjectAndAttendance(subjects.AllSubjects);
+
+                                string inputSubject = validate.Subject();
+
+                                edit.UserStudent(usersList, usernameStudent, paswordStudent, inputSubject, subjects);
+
+                                break;
+                            case "2": //Show Grades
+
+                                print.StudentSubjectAndGrades(usersList, usernameStudent, paswordStudent);
+
+                                break;
+                        }
+                        break;
+                }
+                #endregion
+
+                Console.WriteLine("________________________________________");
+                Console.WriteLine("Do you want to chek another number Y/N ");
+                RunProgram = start.RunProgramAgain();
+
+            } while (RunProgram);
+
         }
     }
 }

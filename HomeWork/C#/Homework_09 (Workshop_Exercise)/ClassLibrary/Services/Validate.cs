@@ -126,35 +126,35 @@ namespace ClassLibrary.Services
             }
         }
 
-        public string StudentFullName (List<Student> allStudents)
+        public Student StudentFullName (List<Student> allStudents)
         {
             string input = Console.ReadLine();
 
-            bool IsfullName = false;
-
+            Student foundStudent = null;
+            
             foreach (var student in allStudents)
             {
                 string fullStudentName = $"{student.FirstName} {student.LastName}";
 
                 if (fullStudentName == input)
                 {
-                    IsfullName = true;
+                   foundStudent = student;
                 }
             }
 
             try
             {
-                if (!IsfullName)
+                if (foundStudent == null)
                 {
-                    throw new Exception("There is not student with that fullname. Please chose from the results above");
+                    throw new Exception("There is not student with that fullname. Please chose from the results above in the format \"Firstname Lastname\" ");
                 }
-                return input;
+                return foundStudent;
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
-                input = StudentFullName(allStudents);
-                return input;
+                foundStudent = StudentFullName(allStudents);
+                return foundStudent;
             }
         }
     }
