@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\Palindrom\bin\Debug\Palindrom.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\Palindrom\bin\Debug\Palindrom.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\Palindrom\bin\Debug\Palindrom.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\Palindrom\obj\Debug\Palindrom.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\Palindrom\obj\Debug\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\Palindrom\obj\Debug\Palindrom.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\Palindrom\obj\Debug\Palindrom.pdb

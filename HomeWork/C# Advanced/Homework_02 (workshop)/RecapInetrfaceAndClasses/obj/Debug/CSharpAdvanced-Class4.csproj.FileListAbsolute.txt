@@ -1,0 +1,7 @@
+C:\C# Advanced\Class4(Workshop)\CSharpAdvanced-Class4\bin\Debug\CSharpAdvanced-Class4.exe.config
+C:\C# Advanced\Class4(Workshop)\CSharpAdvanced-Class4\bin\Debug\CSharpAdvanced-Class4.exe
+C:\C# Advanced\Class4(Workshop)\CSharpAdvanced-Class4\bin\Debug\CSharpAdvanced-Class4.pdb
+C:\C# Advanced\Class4(Workshop)\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.csprojAssemblyReference.cache
+C:\C# Advanced\Class4(Workshop)\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.csproj.CoreCompileInputs.cache
+C:\C# Advanced\Class4(Workshop)\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.exe
+C:\C# Advanced\Class4(Workshop)\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.pdb
