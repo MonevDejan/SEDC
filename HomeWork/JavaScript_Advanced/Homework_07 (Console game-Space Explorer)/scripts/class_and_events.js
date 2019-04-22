@@ -49,7 +49,6 @@ class Ship {
         };
 
         makeButtonsInactive(allButtons);
-        debugger;
         console.log('The ship has started traveling')
 
         setTimeout(() => {
