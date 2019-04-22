@@ -1,6 +1,7 @@
 function newGame() {
     if (global.activePLayer.globalScore >= global.finalScore) {
         disableEnableButtons();
+        newGameButton.classList.toggle("animation");
     }
 
     //To set scrore to 0
@@ -57,6 +58,7 @@ function checkForWinner() {
         global.activePLayer.name.classList.toggle("winner");
         global.gameInProgress = false;
         disableEnableButtons();
+        newGameButton.classList.toggle("animation");
     }
     else {
         nextPlayer();
@@ -76,7 +78,7 @@ function nextPlayer() {
 
 function newFinalScore() {
     if(global.gameInProgress === false ) {
-        if(isNaN(inputValue.value) || !inputValue.value || (inputValue.value <= 0) ) //проверка и за децималниброеви
+        if(isNaN(inputValue.value) || !inputValue.value || (inputValue.value <= 0) ) 
         { 
             inputValue.value = "";
             inputValue.setAttribute("placeholder", "Insert valid number!");
@@ -97,10 +99,8 @@ function newFinalScore() {
 function disableEnableButtons() {
     for (let i = 0; i < allButtons.length; i++) {
         allButtons[i].classList.toggle("inactiveLink");
-        allButtons[i].classList.toggle("animation");
     }
     newGameButton.classList.toggle("inactiveLink");
-    newGameButton.classList.toggle("animation");
 }
 
 function toggleClasses() {
