@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Constructors\bin\Debug\Constructors.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Constructors\obj\Debug\Constructors.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Constructors\obj\Debug\Constructors.pdb

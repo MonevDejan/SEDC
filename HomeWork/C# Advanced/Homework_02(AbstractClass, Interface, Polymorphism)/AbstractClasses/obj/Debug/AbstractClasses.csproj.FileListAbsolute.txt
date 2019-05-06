@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\AbstractClasses\obj\Debug\AbstractClasses.pdb

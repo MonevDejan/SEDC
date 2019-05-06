@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Dynamic\bin\Debug\Polymorphism-Dynamic.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Dynamic\bin\Debug\Polymorphism-Dynamic.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Dynamic\bin\Debug\Polymorphism-Dynamic.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Dynamic\obj\Debug\Polymorphism-Dynamic.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Dynamic\obj\Debug\Polymorphism-Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Dynamic\obj\Debug\Polymorphism-Dynamic.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Dynamic\obj\Debug\Polymorphism-Dynamic.pdb

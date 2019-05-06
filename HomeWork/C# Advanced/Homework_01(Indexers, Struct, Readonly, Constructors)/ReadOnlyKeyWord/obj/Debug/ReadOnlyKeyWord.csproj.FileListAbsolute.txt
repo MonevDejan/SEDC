@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\ReadOnlyKeyWord\bin\Debug\ReadOnlyKeyWord.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\ReadOnlyKeyWord\bin\Debug\ReadOnlyKeyWord.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\ReadOnlyKeyWord\bin\Debug\ReadOnlyKeyWord.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\ReadOnlyKeyWord\obj\Debug\ReadOnlyKeyWord.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\ReadOnlyKeyWord\obj\Debug\ReadOnlyKeyWord.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\ReadOnlyKeyWord\obj\Debug\ReadOnlyKeyWord.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\ReadOnlyKeyWord\obj\Debug\ReadOnlyKeyWord.pdb

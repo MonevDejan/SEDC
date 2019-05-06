@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Static\bin\Debug\Polymorphism-Static.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Static\bin\Debug\Polymorphism-Static.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Static\bin\Debug\Polymorphism-Static.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Static\obj\Debug\Polymorphism-Static.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Static\obj\Debug\Polymorphism-Static.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Static\obj\Debug\Polymorphism-Static.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02(AbstractClass, Interface, Polymorphism)\Polymorphism-Static\obj\Debug\Polymorphism-Static.pdb

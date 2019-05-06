@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Indexers\bin\Debug\Indexers.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Indexers\bin\Debug\Indexers.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Indexers\obj\Debug\Indexers.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_01(Indexers, Copy, Clone)\Indexers\obj\Debug\Indexers.pdb
