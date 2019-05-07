@@ -1,0 +1,13 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\RecapInetrfaceAndClasses\bin\Debug\CSharpAdvanced-Class4.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\RecapInetrfaceAndClasses\bin\Debug\CSharpAdvanced-Class4.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\RecapInetrfaceAndClasses\bin\Debug\CSharpAdvanced-Class4.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\RecapInetrfaceAndClasses\obj\Debug\RecapInetrfaceAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\RecapInetrfaceAndClasses\obj\Debug\CSharpAdvanced-Class4.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_02 (workshop)\RecapInetrfaceAndClasses\obj\Debug\CSharpAdvanced-Class4.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_04(Workshop)\Exercise (palindrom)\RecapInetrfaceAndClasses\bin\Debug\CSharpAdvanced-Class4.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_04(Workshop)\Exercise (palindrom)\RecapInetrfaceAndClasses\bin\Debug\CSharpAdvanced-Class4.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_04(Workshop)\Exercise (palindrom)\RecapInetrfaceAndClasses\bin\Debug\CSharpAdvanced-Class4.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_04(Workshop)\Exercise (palindrom)\RecapInetrfaceAndClasses\obj\Debug\RecapInetrfaceAndClasses.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_04(Workshop)\Exercise (palindrom)\RecapInetrfaceAndClasses\obj\Debug\RecapInetrfaceAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_04(Workshop)\Exercise (palindrom)\RecapInetrfaceAndClasses\obj\Debug\CSharpAdvanced-Class4.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_04(Workshop)\Exercise (palindrom)\RecapInetrfaceAndClasses\obj\Debug\CSharpAdvanced-Class4.pdb

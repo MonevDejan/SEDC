@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StaticClass\bin\Debug\StaticClass.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StaticClass\obj\Debug\StaticClass.pdb

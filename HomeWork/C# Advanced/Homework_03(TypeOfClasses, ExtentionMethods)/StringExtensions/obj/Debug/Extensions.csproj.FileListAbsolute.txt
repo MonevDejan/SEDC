@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StringExtensions\bin\Debug\StringExtensions.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StringExtensions\bin\Debug\StringExtensions.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StringExtensions\bin\Debug\StringExtensions.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StringExtensions\obj\Debug\Extensions.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StringExtensions\obj\Debug\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StringExtensions\obj\Debug\StringExtensions.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\StringExtensions\obj\Debug\StringExtensions.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\NestedClasses\bin\Debug\NestedClasses.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\NestedClasses\bin\Debug\NestedClasses.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\NestedClasses\bin\Debug\NestedClasses.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\NestedClasses\obj\Debug\NestedClasses.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\NestedClasses\obj\Debug\NestedClasses.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\NestedClasses\obj\Debug\NestedClasses.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_03(TypeOfClasses, ExtentionMethods)\NestedClasses\obj\Debug\NestedClasses.pdb
