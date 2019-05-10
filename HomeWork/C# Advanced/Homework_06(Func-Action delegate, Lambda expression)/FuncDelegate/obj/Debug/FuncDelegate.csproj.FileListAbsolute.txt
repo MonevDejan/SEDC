@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_06(Func-Action delegate, Lambda expression)\FuncDelegate\bin\Debug\FuncDelegate.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_06(Func-Action delegate, Lambda expression)\FuncDelegate\bin\Debug\FuncDelegate.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_06(Func-Action delegate, Lambda expression)\FuncDelegate\bin\Debug\FuncDelegate.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_06(Func-Action delegate, Lambda expression)\FuncDelegate\obj\Debug\FuncDelegate.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_06(Func-Action delegate, Lambda expression)\FuncDelegate\obj\Debug\FuncDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_06(Func-Action delegate, Lambda expression)\FuncDelegate\obj\Debug\FuncDelegate.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_06(Func-Action delegate, Lambda expression)\FuncDelegate\obj\Debug\FuncDelegate.pdb
