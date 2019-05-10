@@ -1,0 +1,14 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events1\bin\Debug\Events1.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events1\bin\Debug\Events1.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events1\bin\Debug\Events1.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events1\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events1\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events1\obj\Debug\Events1.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events1\obj\Debug\Events1.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events\bin\Debug\Events1.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events\bin\Debug\Events1.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events\bin\Debug\Events1.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events\obj\Debug\Events1.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Events\obj\Debug\Events1.pdb

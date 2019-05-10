@@ -1,0 +1,7 @@
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Delegates\bin\Debug\Delegates.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Delegates\obj\Debug\Delegates.exe
+C:\Users\Ne0-Ge0\Desktop\sedc\SEDC\HomeWork\C# Advanced\Homework_05(Generic, Delegates, Events, Anonymos methods)\Delegates\obj\Debug\Delegates.pdb
