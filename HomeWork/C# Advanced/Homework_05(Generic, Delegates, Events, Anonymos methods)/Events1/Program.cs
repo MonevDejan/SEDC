@@ -39,11 +39,11 @@ namespace Events1
             }
         }
 
-        protected void OnMinuteChange (object clock, TimeInfoEventArgs timeInformation)
+        protected void OnMinuteChange (TimeInfoEventArgs timeInformation)
         {
             if (MinuteChange != null)
             {
-                MinuteChange(clock, timeInformation);
+                MinuteChange(this, timeInformation);
             }
         }
 
@@ -74,7 +74,7 @@ namespace Events1
                 if ((dt.Minute != _minute) && (_minute != -1))
                 {
                     TimeInfoEventArgs timeInformation = new TimeInfoEventArgs(dt.Hour, dt.Minute, dt.Second);
-                    OnMinuteChange(this, timeInformation);
+                    OnMinuteChange(timeInformation);
                 }
 
                 _second = dt.Second;
