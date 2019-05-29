@@ -5,6 +5,10 @@
     /* border: solid black 2px; */
 }
 
+html, body{
+	height: 100%;
+}
+
 p {
     font-weight: bold;
 }
@@ -85,3 +89,10 @@ span {
          margin: 0
     }
 }
+
+/* @media screen and (min-width: 850px) {
+    .maxWidth {
+        width: 850px;
+        margin: 0 auto;
+   }
+} */
