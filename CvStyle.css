@@ -1,0 +1,32 @@
+* { 
+    font-family: sans-serif;
+    line-height: 24px;
+    font-size: 16px;
+}
+
+.name {
+    background: #88898c;
+    letter-spacing: 5px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1em;
+}
+
+.fields {
+    background: #88898c;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+    
+}
+
+span {
+    color: #4cf3ff;
+    font-weight: bold;
+       
+}
+
+p {
+    font-weight: bold;
+}
