@@ -1,7 +1,17 @@
 * { 
     font-family: sans-serif;
-    line-height: 24px;
-    font-size: 16px;
+    line-height: 20px;
+    font-size: 14px;
+    /* border: solid black 2px; */
+}
+
+p {
+    font-weight: bold;
+}
+
+span {
+    color: #27a1e8;
+    font-weight: bold;    
 }
 
 .name {
@@ -17,16 +27,61 @@
     letter-spacing: 5px;
     font-weight: bold;
     font-size: 1em;
-    text-align: center;
-    
+    text-align: center; 
+    border-radius: 50%;
 }
 
-span {
-    color: #4cf3ff;
-    font-weight: bold;
-       
+.cyanDot{
+    font-size: 4em;
+    color: #27a1e8;
 }
 
-p {
-    font-weight: bold;
+.blackDot{
+    font-size: 4em;
+    color: #000000;
+}
+
+.dot1{
+    position: absolute;
+    left: 120px;
+}
+.dot2{
+    position: absolute;
+    left: 145px;
+}
+.dot3{
+    position: absolute;
+    left: 170px;
+}
+.dot4{
+    position: absolute;
+    left: 195px;
+}
+.dot5{
+    position: absolute;
+    left: 220px;
+}
+
+@media screen and (min-width: 600px) {
+    .float-left {
+        width: 45%;
+        float: left;
+    }
+    .float-right {
+        width: 50%;
+        float: right;
+        margin: 0 auto;
+    }
+
+    .fields {
+        width: 95%;
+    }
+
+    p {
+        margin: 0;
+    }
+
+    ul {
+         margin: 0
+    }
 }
