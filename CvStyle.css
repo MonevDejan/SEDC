@@ -28,7 +28,7 @@ span {
 
 .fields {
     background: #88898c;
-    letter-spacing: 5px;
+    letter-spacing: 4px;
     font-weight: bold;
     font-size: 1em;
     text-align: center; 
@@ -47,23 +47,23 @@ span {
 
 .dot1{
     position: absolute;
-    left: 120px;
+    left: 140px;
 }
 .dot2{
     position: absolute;
-    left: 145px;
+    left: 165px;
 }
 .dot3{
     position: absolute;
-    left: 170px;
+    left: 190px;
 }
 .dot4{
     position: absolute;
-    left: 195px;
+    left: 215px;
 }
 .dot5{
     position: absolute;
-    left: 220px;
+    left: 240px;
 }
 
 @media screen and (min-width: 600px) {
